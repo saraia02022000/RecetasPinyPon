@@ -2348,6 +2348,57 @@
         "Nota: otra tarjeta de referencia da tiempos algo distintos para algunos mariscos, todos con 60 g de sal por litro salvo gamba (50 g) y percebe (70 g): camarón 0,5 min, bígaros 1,5 min, langosta mediana 20 min y langosta grande 30 min, langostino mediano 1,5 min y grande 2 min, lubricante mediano 20 min y grande 30 min, cigala grande 3 min, gamba 1 min. Comprueba cuál coincide con la fuente que sueles usar."
       ],
       "custom": true
+    },
+    {
+      "id": "muslos_de_pollo_al_horno",
+      "title": "Muslos de pollo al horno",
+      "category": "Carne",
+      "desc": "Muslos de pollo asados al horno con patatas panaderas",
+      "time": 50,
+      "difficulty": "Fácil",
+      "baseServings": 2,
+      "ingredients": [
+        {
+          "name": "Cuarto trasero de pollo",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Vaso Vino blanco",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "Patata",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "Sal",
+          "amount": 0,
+          "unit": ""
+        },
+        {
+          "name": "Pimienta",
+          "amount": 0,
+          "unit": ""
+        },
+        {
+          "name": "Cucharada de aceite",
+          "amount": 2,
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Cortar las patatas, salpimentarlas y ponerlas en una bandeja con un poco de aceite ",
+        "Precalentar el horno a 220 grados",
+        "Poner el cuarto trasero del pollo sobre las patatas",
+        "Cuando el horno esté caliente meter el pollo sobre las patatas e introducir la bandeja en el horno rociando vino blanco, salpimentando y poniendo aceite encima ",
+        "Mantener 20 minutos",
+        "Dar la vuelta al pollo y echar más vino, sal y pimienta y aceite ",
+        "Mantener 20 minutos hasta que esté hecho"
+      ],
+      "custom": true
     }
   ],
   "overrides": {}
