@@ -1,4 +1,2354 @@
 {
-  "customRecipes": [],
+  "customRecipes": [
+    {
+      "id": "menestra_de_cordero",
+      "title": "Menestra de cordero",
+      "category": "Guisos",
+      "desc": "Cordero guisado con verduras variadas, adornado con huevo cocido y bolitas de espinacas.",
+      "time": 60,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "cordero en tacos",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "puerro",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "ajo",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "harina",
+          "amount": 1,
+          "unit": "cda"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "zanahoria",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "espárragos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "habas",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "calabacín",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "caldo",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "huevos cocidos (para adornar)",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "bolitas de espinacas salteadas (para adornar)",
+          "amount": 1,
+          "unit": "puñado"
+        }
+      ],
+      "steps": [
+        "Sofreír el puerro, la cebolla y el ajo picados; añadir el cordero en tacos y sofreír.",
+        "Añadir la harina desleída en un poco de caldo o agua y sofreír unos minutos.",
+        "Añadir el vino blanco y reducir; incorporar el perejil picado y la sal.",
+        "Añadir las verduras (zanahoria, espárragos, habas, champiñones y calabacín) cortadas en trozos pequeños y cocer con el caldo hasta que todo esté tierno.",
+        "Servir adornado con huevos cocidos picados y bolitas de espinacas salteadas."
+      ],
+      "custom": true
+    },
+    {
+      "id": "gambas_rebozadas",
+      "title": "Gambas rebozadas",
+      "category": "Pescados y mariscos",
+      "desc": "Gambas peladas rebozadas en una masa de huevo, harina y azafrán, y fritas hasta dorarse.",
+      "time": 20,
+      "difficulty": "Muy fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "gambas",
+          "amount": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "huevos",
+          "amount": 3,
+          "unit": ""
+        },
+        {
+          "name": "harina",
+          "amount": 3,
+          "unit": "cda"
+        },
+        {
+          "name": "pimienta molida",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Batir los huevos con sal, pimienta y azafrán.",
+        "Añadir poco a poco la harina removiendo bien, hasta obtener una masa semilíquida y sin grumos.",
+        "Pasar las gambas por la mezcla y freír por los dos lados."
+      ],
+      "custom": true
+    },
+    {
+      "id": "crepes",
+      "title": "Crepes",
+      "category": "Postres",
+      "desc": "Masa clásica de crepes, apta para versiones dulces o saladas.",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "harina",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "leche",
+          "amount": 125,
+          "unit": "ml"
+        },
+        {
+          "name": "mantequilla (para untar la sartén)",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "sal (si se hacen salados)",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "azúcar (si se hacen dulces)",
+          "amount": 1,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Poner la harina en un bol y añadir poco a poco la leche, los huevos y la sal o el azúcar (según se quieran salados o dulces), mezclando bien.",
+        "Dejar reposar 20 minutos.",
+        "Untar la sartén con mantequilla a fuego medio y hacer los crepes, dorándolos por las dos caras."
+      ],
+      "custom": true
+    },
+    {
+      "id": "arroz_marinero",
+      "title": "Arroz marinero",
+      "category": "Arroces",
+      "desc": "Arroz al horno con gambas, calamares, pescado, mejillones y carabineros.",
+      "time": 45,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "ajo",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "gambas",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "calamares",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "pescado en trozos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "arroz",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "tomate frito",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "caldo de pescado",
+          "amount": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "mejillones",
+          "amount": 8,
+          "unit": ""
+        },
+        {
+          "name": "carabineros",
+          "amount": 4,
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Sofreír el ajo picado fino.",
+        "Añadir las gambas, los calamares y el pescado, y dar unas vueltas.",
+        "Añadir el arroz y el azafrán, y dar otra vuelta.",
+        "Añadir el tomate frito y el caldo de pescado.",
+        "Poner 15 minutos en el horno junto con los mejillones y los carabineros, a 200°C."
+      ],
+      "custom": true
+    },
+    {
+      "id": "filete_relleno_de_setas",
+      "title": "Filete relleno de setas",
+      "category": "Carnes",
+      "desc": "Filete fino enrollado con relleno de setas y bechamel, servido con verduras a la plancha.",
+      "time": 45,
+      "difficulty": "Media",
+      "baseServings": 2,
+      "ingredients": [
+        {
+          "name": "filete grande y fino de ternera",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "setas",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "cebolleta",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "espárragos verdes",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "ajo",
+          "amount": 1,
+          "unit": "diente"
+        },
+        {
+          "name": "harina (para la bechamel)",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "leche (para la bechamel)",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "tomate",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "cebolla (para la guarnición)",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "aceite",
+          "amount": 2,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Hacer las setas a la plancha junto con la cebolleta y los espárragos verdes.",
+        "Sofreír la cebolleta muy picada con el ajo; añadir la harina, tostarla y añadir la leche poco a poco hasta que espese, incorporando las setas picadas, sal y pimienta (así se hace la bechamel).",
+        "Extender el filete grande y fino, poner encima las setas y la bechamel, tapar y dejar enfriar en la nevera.",
+        "Enrollar el filete y atravesarlo con un palillo para que no se abra.",
+        "Sofreír el rollo en un poco de aceite lentamente y meterlo al horno unos minutos.",
+        "Pelar y cortar en lonchas el tomate, y la cebolla en juliana, y hacerlos a la plancha.",
+        "Servir en el plato los espárragos, la carne cortada y las verduras."
+      ],
+      "custom": true
+    },
+    {
+      "id": "tarta_queso_sobaos",
+      "title": "Tarta de queso con sobaos",
+      "category": "Postres",
+      "desc": "Tarta de queso fría sobre base de sobaos, cuajada con Royal y cubierta de mermelada.",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 8,
+      "ingredients": [
+        {
+          "name": "sobaos",
+          "amount": 10,
+          "unit": ""
+        },
+        {
+          "name": "leche",
+          "amount": 1,
+          "unit": "vaso"
+        },
+        {
+          "name": "azúcar",
+          "amount": 0.5,
+          "unit": "vaso"
+        },
+        {
+          "name": "queso crema (tipo Philadelphia)",
+          "amount": 1,
+          "unit": "tarrina"
+        },
+        {
+          "name": "sobre de cuajada Royal",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "nata líquida para cocinar",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "mermelada de fresa o nueces (para decorar)",
+          "amount": 1,
+          "unit": "puñado"
+        }
+      ],
+      "steps": [
+        "Poner los sobaos a lo largo cubriendo completamente la base del molde.",
+        "Mezclar con la batidora la leche, el azúcar, el queso crema, el sobre de cuajada y la nata.",
+        "Calentar la mezcla y, cuando hierva, echarla sobre el molde y dejar enfriar.",
+        "Añadir por encima la mermelada de fresa o nueces al gusto."
+      ],
+      "custom": true
+    },
+    {
+      "id": "pollo_en_pepitoria",
+      "title": "Pollo en pepitoria",
+      "category": "Guisos",
+      "desc": "Pollo guisado con un majado de almendras, ajo, azafrán y yema de huevo cocido.",
+      "time": 60,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "pollo troceado",
+          "amount": 1.2,
+          "unit": "kg"
+        },
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "almendras",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "ajos",
+          "amount": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "pan (para freír)",
+          "amount": 1,
+          "unit": "rebanada"
+        },
+        {
+          "name": "yemas de huevo cocido",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "anís (licor)",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "caldo",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "harina (para enharinar el pollo)",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "aceite",
+          "amount": 3,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "cdta"
+        }
+      ],
+      "steps": [
+        "Sofreír la cebolla, las almendras, los ajos y unos trozos de pan; reservar.",
+        "Machacar en el mortero o batidora los ajos crudos, el perejil, las yemas de huevo cocido y el azafrán junto con lo sofrito reservado.",
+        "Sofreír el pollo ligeramente enharinado.",
+        "Añadir al pollo el vino, el anís y el majado; después añadir caldo hasta que el pollo esté tierno, y cocer."
+      ],
+      "custom": true
+    },
+    {
+      "id": "solomillo_al_horno",
+      "title": "Solomillo al horno",
+      "category": "Carnes",
+      "desc": "Solomillo horneado con un majado de ajo, azafrán, orégano, vino y aceite.",
+      "time": 55,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "cabeza de ajos (pelados)",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "orégano",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "vino",
+          "amount": 1,
+          "unit": "vaso"
+        },
+        {
+          "name": "aceite",
+          "amount": 1,
+          "unit": "vaso"
+        },
+        {
+          "name": "hojas de laurel",
+          "amount": 3,
+          "unit": ""
+        },
+        {
+          "name": "solomillo",
+          "amount": 1,
+          "unit": "kg"
+        }
+      ],
+      "steps": [
+        "Triturar una cabeza de ajos pelados con pimienta, azafrán y orégano.",
+        "Mezclar con un vaso de vino y otro de aceite.",
+        "Echar sobre el solomillo la mezcla y unas hojas de laurel.",
+        "Poner al horno 45 minutos a 200°C."
+      ],
+      "custom": true
+    },
+    {
+      "id": "alcachofas_con_almejas",
+      "title": "Alcachofas con almejas",
+      "category": "Verduras",
+      "desc": "Alcachofas guisadas con almejas, ajo, vino blanco y perejil.",
+      "time": 240,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "alcachofas",
+          "amount": 8,
+          "unit": "ud"
+        },
+        {
+          "name": "almejas",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "harina (o almidón de maíz para celiacos)",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "agua",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva virgen extra",
+          "amount": 4,
+          "unit": "cda"
+        },
+        {
+          "name": "perejil fresco",
+          "amount": 4,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Poner las almejas en remojo en agua con mucha sal durante unas 3 horas, para que suelten la arena y las impurezas.",
+        "Escurrir las almejas y ponerlas en una cazuela con un dedo de agua en el fondo; cocer al fuego hasta que se abran (2-3 minutos desde que hierva). Escurrir y reservar tanto las almejas como el agua de cocción.",
+        "Limpiar las alcachofas retirando las hojas exteriores hasta llegar a la parte tierna del corazón, limpiar los tallos y cortar la punta más seca. Cortarlas en cuartos y dejarlas en un bol con agua y zumo de limón para que no se oxiden.",
+        "En una sartén, calentar el aceite de oliva y sofreír el ajo picado junto con el perejil triturado. Cuando el ajo empiece a dorarse, añadir las alcachofas escurridas y secas, y cocinar 10 minutos removiendo de vez en cuando.",
+        "Añadir la harina y dorarla junto con las verduras. Añadir el vino blanco y dejar que se evapore el alcohol unos minutos.",
+        "Incorporar el caldo reservado de cocer las almejas y cocinar 10 minutos. Probar y ajustar de sal.",
+        "Añadir las almejas reservadas, dejar medio minuto a que recuperen temperatura y retirar del fuego.",
+        "Servir bien caliente, espolvoreado con perejil fresco y con pan para mojar en la salsa."
+      ],
+      "custom": true
+    },
+    {
+      "id": "calabacines_rellenos_carne",
+      "title": "Calabacines rellenos de carne picada",
+      "category": "Verduras",
+      "desc": "Calabacines escalfados y rellenos de un sofrito de carne picada y verduras, gratinados con bechamel y queso.",
+      "time": 90,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "calabacines medianos",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "cebollas",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "ajo",
+          "amount": 1,
+          "unit": "diente"
+        },
+        {
+          "name": "carne picada (mezcla de ternera y cerdo)",
+          "amount": 0.5,
+          "unit": "kg"
+        },
+        {
+          "name": "aceite de oliva virgen extra",
+          "amount": 6,
+          "unit": "cda"
+        },
+        {
+          "name": "tomates grandes",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "zanahoria grande",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimiento rojo",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "vino blanco o tinto",
+          "amount": 0.5,
+          "unit": "vaso"
+        },
+        {
+          "name": "bechamel",
+          "amount": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "queso rallado (para gratinar)",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta negra recién molida",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Partir los calabacines en dos a lo largo.",
+        "Calentar una cazuela grande con agua; cuando hierva, añadir un puñado generoso de sal y un chorrito de aceite. Cocer los calabacines 2-3 minutos, retirarlos, secarlos bien con papel absorbente y reservarlos hasta que estén tibios.",
+        "Vaciar con cuidado el interior de cada mitad de calabacín con una cuchara, sin excederse, dejando hueco para el relleno. Reservar por un lado los calabacines vaciados y por otro la carne del calabacín retirada, que se añadirá al relleno.",
+        "Escaldar los tomates, pelarlos y picarlos en cuadraditos pequeños (brunoise). Picar muy fino también las cebollas, el calabacín reservado, el pimiento rojo y el ajo.",
+        "Pelar y picar la zanahoria lo más fina posible, para que se deshaga bien al hacer la salsa.",
+        "En una cazuela, calentar el aceite y sofreír la cebolla, el calabacín picado y el ajo unos 3 minutos; añadir la zanahoria y el pimiento rojo.",
+        "Pochar todas las verduras a fuego bajo unos 15 minutos.",
+        "Salpimentar la carne picada y añadirla a la cazuela con las verduras junto con las especias que se quiera (orégano, perejil...). Sofreír 5-7 minutos a fuego suave, removiendo sin parar.",
+        "Añadir el tomate picado y el vino, y dejar reducir hasta obtener una salsa espesa, unos 15 minutos a fuego suave. Probar y rectificar de sal.",
+        "Retirar del fuego y dejar enfriar el relleno.",
+        "Preparar la bechamel y precalentar el horno a 200°C.",
+        "Rellenar los calabacines con el sofrito de carne bien escurrido, ayudándose de una espumadera para retirar el caldo sobrante.",
+        "Reducir ese caldo en un cazo 5 minutos a fuego fuerte si se quiere usar para adornar el plato.",
+        "Cubrir cada mitad con dos o tres cucharadas de bechamel, espolvorear con el queso elegido y gratinar 5 minutos a 220°C.",
+        "Sacar del horno y servir dos mitades (un calabacín) por persona, bien calientes."
+      ],
+      "custom": true
+    },
+    {
+      "id": "calamares_salsa_americana",
+      "title": "Calamares en salsa americana",
+      "category": "Pescados y mariscos",
+      "desc": "Calamares guisados en una salsa de tomate, vino blanco y un toque picante de cayena.",
+      "time": 50,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "ajos",
+          "amount": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "tomate triturado",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "calamares",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "cayena",
+          "amount": 1,
+          "unit": "ud"
+        },
+        {
+          "name": "harina",
+          "amount": 1,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Hacer un sofrito de ajo y cebolla picados junto con la cayena.",
+        "Cuando la cebolla esté pochada, añadir el calamar en trozos, incorporar la harina y el vino blanco, y dejar reducir.",
+        "Añadir después el tomate y dejar a fuego medio unos 30 minutos, hasta que la salsa reduzca y el calamar quede tierno."
+      ],
+      "custom": true
+    },
+    {
+      "id": "sopa_de_pescado",
+      "title": "Sopa de pescado",
+      "category": "Cucharas",
+      "desc": "Sopa de pescado y gambas con un sofrito de verduras, pan y coñac, triturada fina.",
+      "time": 60,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "ajos",
+          "amount": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimiento",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimentón dulce",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "gambas (con cáscara)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "pescado para sopa",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "tomate frito",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "coñac",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "pan duro",
+          "amount": 2,
+          "unit": "rebanadas"
+        },
+        {
+          "name": "agua",
+          "amount": 1.2,
+          "unit": "l"
+        },
+        {
+          "name": "aceite",
+          "amount": 3,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Machacar y sofreír las cabezas de las gambas; añadir el pescado, agua y perejil, y dejar cocer para hacer un caldo.",
+        "Mientras cuece, sofreír el ajo, la cebolla, el pimiento, el pan, el pimentón dulce, el coñac y el tomate frito.",
+        "Añadir el caldo del pescado cocido y triturar muy fino.",
+        "Añadir el azafrán, el pescado desmigado y las gambas troceadas, y dejar cocer unos minutos."
+      ],
+      "custom": true
+    },
+    {
+      "id": "salteado_ternera_verduras",
+      "title": "Salteado de ternera con verduras",
+      "category": "Carnes",
+      "desc": "Tiras de ternera y verduras salteadas a fuego fuerte con un toque de salsa de soja.",
+      "time": 15,
+      "difficulty": "Fácil",
+      "baseServings": 2,
+      "ingredients": [
+        {
+          "name": "ternera en filetes finos",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento verde grande",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimiento rojo",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "cebolla grande",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "setas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "zanahoria (en tiras)",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "salsa de soja",
+          "amount": 1,
+          "unit": "cda"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 1,
+          "unit": "cda"
+        },
+        {
+          "name": "pimienta negra",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Cortar en tiras los pimientos, la zanahoria y la cebolla; cortar las setas en trozos más grandes, de unos 3 cm.",
+        "Con ayuda de un cuchillo o unas tijeras, sacar tiras largas de los filetes finos de ternera y salpimentarlos.",
+        "En una sartén con la cucharada de aceite, pochar primero las verduras y reservar.",
+        "En la misma sartén, poner las tiras de ternera a fuego fuerte hasta que se doren.",
+        "Volver a incorporar las verduras y la salsa de soja, y saltear un par de minutos.",
+        "Servir directamente en el plato y terminar espolvoreando un poco de perejil picado, si se desea."
+      ],
+      "custom": true
+    },
+    {
+      "id": "setas_en_salsa",
+      "title": "Setas en salsa",
+      "category": "Verduras",
+      "desc": "Setas guisadas en una salsa ligada con un majado de ajo, pan frito y perejil.",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "ajo",
+          "amount": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "pan (previamente frito)",
+          "amount": 2,
+          "unit": "rebanadas"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "setas",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "caldo",
+          "amount": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "vino",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Machacar el ajo, el pan previamente frito y el perejil.",
+        "Añadir las setas y sofreír junto con la cebolla picada.",
+        "Añadir el caldo y el majado, el vino, el azafrán, la sal y la pimienta, y dejar unos 15 minutos hasta que espese."
+      ],
+      "custom": true
+    },
+    {
+      "id": "pollo_en_salsa",
+      "title": "Pollo en salsa",
+      "category": "Guisos",
+      "desc": "Pollo en salsa cremosa de nata, mostaza y miel, servido sobre una torta de patata al horno.",
+      "time": 45,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "patatas medianas",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "aceite",
+          "amount": 4,
+          "unit": "cda"
+        },
+        {
+          "name": "orégano",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "pimentón",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "comino",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pechuga de pollo",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "chorizo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "puerro",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "setas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "vino tinto",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "nata",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "miel",
+          "amount": 1,
+          "unit": "cda"
+        },
+        {
+          "name": "mostaza",
+          "amount": 2,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Poner las patatas a cocer 15 minutos, escurrir y pasar al horno.",
+        "En un cuenco, poner el aceite, el orégano, el pimentón, el comino, la sal y la pimienta, y mezclar bien.",
+        "Aplastar las patatas con un vaso formando una torta fina, pintarla con la mezcla de aceite y mantener en el horno.",
+        "Cortar la pechuga en tiras no muy finas, sofreír y apartar.",
+        "Trocear la cebolla fina y sofreír junto al chorizo picado, el puerro picado y las setas picadas, hasta que quede todo bien sofrito.",
+        "Añadir el vino tinto y después la nata, una cucharada de miel y dos cucharadas de mostaza.",
+        "Añadir el pollo y dejar hervir."
+      ],
+      "custom": true
+    },
+    {
+      "id": "pollo_al_chilindron",
+      "title": "Pollo al chilindrón",
+      "category": "Guisos",
+      "desc": "Pollo guisado con pimientos, cebolla, tomate, ajo y un toque de jamón y vino blanco.",
+      "time": 30,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "pollo troceado sin piel",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimiento rojo entero",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimiento verde",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "cebolla entera",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "tomate grande",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "ajo",
+          "amount": 4,
+          "unit": "dientes"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "jamón en tacos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "sal",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 2,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Pelar, limpiar y cortar los pimientos, la cebolla y el tomate en dados. Pelar y cortar por la mitad cada diente de ajo. Salpimentar los trozos de pollo.",
+        "En una cazuela, poner dos cucharadas de aceite y marcar a fuego fuerte los trozos de pollo 3-4 minutos, solo hasta que se doren por fuera, y reservarlos.",
+        "En la misma cazuela, pochar las verduras a fuego medio-bajo, removiendo de vez en cuando, incluyendo también el ajo.",
+        "Cuando la verdura empiece a ablandarse, añadir los dados de tomate y seguir pochando.",
+        "Pasados unos minutos, añadir el vino blanco, los trozos de pollo reservados y el jamón en tacos, y dejar cocinar hasta que el pollo esté tierno y la salsa haya reducido (receta incompleta en el original; paso final estimado)."
+      ],
+      "custom": true
+    },
+    {
+      "id": "lentejas",
+      "title": "Lentejas (olla exprés)",
+      "category": "Cucharas",
+      "desc": "Guiso de lentejas con sofrito, chorizo y una cabeza de ajos, cocido en olla exprés.",
+      "time": 40,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "ajo",
+          "amount": 1,
+          "unit": "diente"
+        },
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimiento",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimentón",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "tomate",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "lentejas",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "laurel",
+          "amount": 1,
+          "unit": "hoja"
+        },
+        {
+          "name": "vino",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "cabeza de ajos",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "chorizo",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 1,
+          "unit": "l"
+        }
+      ],
+      "steps": [
+        "Sofreír el ajo, la cebolla, el pimiento, el pimentón y el tomate.",
+        "Añadir a la olla las lentejas, el sofrito, el laurel, un chorro de vino, la media cabeza de ajos, la sal y el chorizo.",
+        "Cuando la olla empiece a salir vapor, dejar unos 5 minutos.",
+        "Dejar que termine de cocer para que el caldo trabe."
+      ],
+      "custom": true
+    },
+    {
+      "id": "leche_frita",
+      "title": "Leche frita",
+      "category": "Postres",
+      "desc": "Cuadraditos de crema de leche cuajada, rebozados y fritos, con un toque de limón.",
+      "time": 40,
+      "difficulty": "Media",
+      "baseServings": 6,
+      "ingredients": [
+        {
+          "name": "harina de maíz (maicena)",
+          "amount": 7,
+          "unit": "cda"
+        },
+        {
+          "name": "azúcar",
+          "amount": 14,
+          "unit": "cda"
+        },
+        {
+          "name": "leche",
+          "amount": 1,
+          "unit": "l"
+        },
+        {
+          "name": "cáscara de limón",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "harina (para rebozar)",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "huevos (para rebozar)",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "aceite (para freír)",
+          "amount": 1,
+          "unit": "vaso"
+        }
+      ],
+      "steps": [
+        "Mezclar la harina de maíz y el azúcar con parte de la leche fría; calentar el resto de la leche con la cáscara de limón.",
+        "Cuando empiece a hervir, incorporar la mezcla y remover hasta que espese.",
+        "Echar en un molde y dejar enfriar.",
+        "Trocear, pasar por harina y huevo, y freír."
+      ],
+      "custom": true
+    },
+    {
+      "id": "gulas_al_ajillo",
+      "title": "Gulas al ajillo con gambas y calamares",
+      "category": "Pescados y mariscos",
+      "desc": "Gulas, gambas y calamares salteados con ajo y perejil, listo en un cuarto de hora.",
+      "time": 15,
+      "difficulty": "Muy fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "gulas",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "gambas",
+          "amount": 1,
+          "unit": "docena"
+        },
+        {
+          "name": "calamares",
+          "amount": 0.5,
+          "unit": "docena"
+        },
+        {
+          "name": "ajo",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "aceite de oliva virgen",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Las gulas pueden comprarse frescas o descongelarlas previamente; igual con las gambas.",
+        "Limpiar bien el calamar o chipirón y cortarlo en trozos (también se puede comprar congelado, limpio y troceado).",
+        "Picar el ajo y el perejil (si se desea, se puede hacer un majado con el aceite y la sal).",
+        "Saltear las gambas y los trozos de calamar en la misma sartén con una cucharada de aceite; añadir el ajo y el perejil, y dejar a fuego medio un minuto.",
+        "Cuando las gambas y el calamar estén prácticamente hechos, añadir las gulas junto con otra cucharada de aceite, y remover un par de minutos a fuego lento, solo hasta que las gulas se calienten.",
+        "Servir en el plato espolvoreando perejil picado por encima."
+      ],
+      "custom": true
+    },
+    {
+      "id": "croquetas_pollo",
+      "title": "Croquetas de pollo",
+      "category": "Entrantes",
+      "desc": "Croquetas cremosas de bechamel con pollo y cebolla sofrita.",
+      "time": 45,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "cebolla (picada)",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pollo picado (cocido o asado)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "aceite",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "harina",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "leche",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "nuez moscada",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "huevos (para rebozar)",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "pan rallado (para rebozar)",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "aceite (para freír)",
+          "amount": 1,
+          "unit": "vaso"
+        }
+      ],
+      "steps": [
+        "Sofreír la cebolla picada.",
+        "Añadir el pollo picado, darle una vuelta y dejarlo en un plato.",
+        "Con un poco de aceite, sofreír la harina, unos 50 g.",
+        "Añadir un vaso de leche, un poco de sal, pimienta y nuez moscada.",
+        "Remover hasta formar la bechamel.",
+        "Añadir el pollo con la cebolla que se ha frito y mezclar bien.",
+        "Sacar a una fiambrera, tapar y dejar enfriar; mejor si se deja unas horas en el frigorífico.",
+        "Formar las croquetas.",
+        "Pasarlas por pan rallado, por huevo y otra vez por pan rallado.",
+        "Freír en aceite muy caliente."
+      ],
+      "custom": true
+    },
+    {
+      "id": "carrillada_en_salsa",
+      "title": "Carrillada en salsa",
+      "category": "Guisos",
+      "desc": "Carrillada estofada en olla exprés con un majado de ajo, cebolla, pimientos secos y dos vinos.",
+      "time": 50,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "ajo",
+          "amount": 4,
+          "unit": "dientes"
+        },
+        {
+          "name": "cebollas",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "pimientos secos",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "vino tinto",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "caldo de carne",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "carrillada",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "laurel",
+          "amount": 1,
+          "unit": "hoja"
+        },
+        {
+          "name": "tomillo",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "orégano",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "clavo",
+          "amount": 1,
+          "unit": "ud"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "aceite",
+          "amount": 2,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Sofreír los ajos, las cebollas y los pimientos secos, y sacarlos; picarlos junto al vino en la batidora.",
+        "En el mismo aceite, marcar la carne por ambos lados.",
+        "Echar todo (el picado y la carne) a la olla exprés junto al caldo de carne hasta cubrir.",
+        "Añadir también el laurel, el tomillo, el orégano, el clavo, la sal y la pimienta.",
+        "Dejar cocer unos 30 minutos."
+      ],
+      "custom": true
+    },
+    {
+      "id": "berenjenas_rellenas",
+      "title": "Berenjenas rellenas",
+      "category": "Verduras",
+      "desc": "Berenjenas al microondas rellenas de atún, pavo y queso gratinado.",
+      "time": 20,
+      "difficulty": "Muy fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "berenjenas",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "cebolla (muy picada)",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "atún al natural (latas)",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "pechuga de pavo (a tacos)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "tomate (rallado)",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 8,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "queso rallado (para gratinar)",
+          "amount": 200,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Partir las berenjenas por la mitad a lo largo y hacerles unos cortes.",
+        "Colocar las mitades en un plato con el corte hacia arriba, salpimentar, añadir la cebolla muy picada, un poco de aceite y el tomate rallado.",
+        "Meter en el microondas 7-8 minutos hasta que la carne de la berenjena esté hecha.",
+        "Añadir encima el atún, la pechuga de pavo a taquitos y por encima el queso rallado.",
+        "Poner en el microondas hasta que se derrita el queso y servir directamente."
+      ],
+      "custom": true
+    },
+    {
+      "id": "bacalao_a_la_vizcaina",
+      "title": "Bacalao a la vizcaína",
+      "category": "Pescados y mariscos",
+      "desc": "Lomos de bacalao cocinados en una salsa de pimiento choricero, cebolla y manzana.",
+      "time": 25,
+      "difficulty": "Fácil",
+      "baseServings": 2,
+      "ingredients": [
+        {
+          "name": "lomos de bacalao (150 g cada uno)",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "pulpa de pimiento choricero o ñora",
+          "amount": 3,
+          "unit": "cda"
+        },
+        {
+          "name": "cebolla roja grande",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "cebolla blanca",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "ajo",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "manzana",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "agua o caldo de pescado",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Pelar y trocear las cebollas en trozos grandes; pelar los dientes de ajo; pelar y cortar en 2 o 3 trozos la media manzana, quitándole las pepitas.",
+        "En una cazuelita, pochar los trozos de cebolla y el ajo. Cuando la cebolla empiece a ablandarse, añadir los trozos de manzana y dejar unos 5 minutos a fuego medio suave.",
+        "Añadir unas cucharadas de la pulpa del pimiento choricero, mezclar todo el conjunto y terminar añadiendo el agua o caldo de pescado, hirviendo unos 15 minutos a fuego medio.",
+        "Triturar la salsa y pasarla por el pasapurés si se desea.",
+        "Introducir las tajadas de bacalao con la piel hacia arriba dentro de la salsa, y dejar cociendo unos 8 minutos más.",
+        "Acompañar con una pequeña ensalada de tomate de guarnición y terminar espolvoreando perejil picado por encima."
+      ],
+      "custom": true
+    },
+    {
+      "id": "gambas_al_pilpil",
+      "title": "Gambas al pil-pil",
+      "category": "Pescados y mariscos",
+      "desc": "Gambas saltadas con ajo, guindilla, perejil y un toque de vino blanco.",
+      "time": 15,
+      "difficulty": "Muy fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "gambas",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "ajos",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 0.33,
+          "unit": "vaso"
+        },
+        {
+          "name": "guindilla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "aceite",
+          "amount": 3,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Sofreír el ajo y la guindilla en aceite.",
+        "Cuando esté dorado, echar las gambas y darles unas vueltas hasta que dejen de ser transparentes.",
+        "Echar la sal, el perejil picado y el vino, y esperar a que se evapore el alcohol."
+      ],
+      "custom": true
+    },
+    {
+      "id": "garbanzos_con_bacalao",
+      "title": "Garbanzos con bacalao",
+      "category": "Cucharas",
+      "desc": "Garbanzos cocidos en olla exprés con un pisto de verduras, salsa de tomate y bacalao.",
+      "time": 40,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "bacalao",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "garbanzos (en remojo desde el día anterior)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "verdura para pisto (pimiento verde, rojo, cebolla, calabacín, puerro...)",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "salsa de tomate",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "aceite",
+          "amount": 3,
+          "unit": "cda"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "El día anterior, poner los garbanzos a remojo en agua caliente-templada.",
+        "Preparar una salsa de tomate friendo cebolla y tomate entero pelado.",
+        "Con la salsa de tomate hecha, preparar el pisto en una sartén y, a la vez, poner los garbanzos a cocer en la olla exprés con agua fría (que los cubra poco más de un dedo) y un chorro de aceite crudo. Cerrar la olla y dejarlos 15 minutos (no más) al nivel 2. Pasados los 15 minutos, retirar la olla y enfriarla en agua fría para frenar la cocción.",
+        "Mientras se cuecen los garbanzos, tener ya preparada la verdura, a la que se añade la salsa de tomate.",
+        "Juntar el pisto con los garbanzos, sin quitar el agua de estos, y añadir el bacalao. Dejar la olla al fuego otros 5-10 minutos para que se haga el bacalao."
+      ],
+      "custom": true
+    },
+    {
+      "id": "hummus",
+      "title": "Hummus",
+      "category": "Entrantes",
+      "desc": "Crema tradicional de garbanzos con tahini, ajo, limón, comino y pimentón.",
+      "time": 15,
+      "difficulty": "Muy fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "aceite de oliva",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "garbanzos cocidos",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 1,
+          "unit": "diente"
+        },
+        {
+          "name": "tahini",
+          "amount": 3,
+          "unit": "cda"
+        },
+        {
+          "name": "limón (exprimido)",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "pimentón dulce",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "comino",
+          "amount": 2,
+          "unit": "cdta"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "perejil (para decorar)",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "agua",
+          "amount": 3,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Escurrir y lavar bien los garbanzos cocidos para quitarles el gusto de la conserva.",
+        "Poner en el vaso de la batidora los garbanzos, el ajo pelado (sin el germen), el tahini, el zumo de limón, el comino y el pimentón.",
+        "Añadir el aceite de oliva y triturar todo junto hasta obtener una crema homogénea.",
+        "Añadir agua, cucharada a cucharada, hasta conseguir la textura deseada, y ajustar de sal y pimienta.",
+        "Servir en un plato extendido con una cuchara formando surcos, añadir un chorrito de aceite de oliva por encima y espolvorear con perejil picado."
+      ],
+      "custom": true
+    },
+    {
+      "id": "paletilla_al_horno",
+      "title": "Paletilla al horno",
+      "category": "Carnes",
+      "desc": "Paletilla de cordero asada al horno con ajo, vino blanco, laurel y hierbas aromáticas.",
+      "time": 120,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "paletilla (de cordero)",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "ajos",
+          "amount": 4,
+          "unit": "dientes"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "laurel",
+          "amount": 2,
+          "unit": "hojas"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "tomillo",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "colorante alimentario",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "aceite",
+          "amount": 3,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Poner la paletilla cruda en la bandeja del horno con los ajos, el vino blanco, el laurel, la sal, la pimienta, el tomillo, el perejil, el colorante, el azafrán y el aceite.",
+        "Hornear una hora por un lado.",
+        "Dar la vuelta y hornear media hora por el otro lado.",
+        "Volver a poner del primer lado otra media hora más para que se tueste."
+      ],
+      "custom": true
+    },
+    {
+      "id": "patatas_a_la_riojana",
+      "title": "Patatas a la riojana",
+      "category": "Cucharas",
+      "desc": "Guiso tradicional de patatas con chorizo, pimientos y un toque de azafrán y comino.",
+      "time": 45,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimientos",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "ajos",
+          "amount": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "patatas (en láminas)",
+          "amount": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "chorizos (sin piel, cortados)",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "pastilla de avecrem",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "comino",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "laurel",
+          "amount": 1,
+          "unit": "hoja"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "agua o caldo",
+          "amount": 500,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sofreír la cebolla, los pimientos y los ajos picados.",
+        "Añadir las patatas en láminas y sofreír junto con el sofrito.",
+        "Añadir los chorizos sin piel y cortados, y sofreír todo junto.",
+        "Añadir el agua o caldo hasta cubrir, la media pastilla de avecrem, el comino, el azafrán, el laurel, el perejil, la sal y el vino blanco.",
+        "Dejar cocer a fuego medio, moviendo la cazuela con giros suaves (sin remover con cuchara para no romper las patatas) hasta que estén tiernas y el caldo haya espesado."
+      ],
+      "custom": true
+    },
+    {
+      "id": "pure_calabacin_puerro",
+      "title": "Puré de calabacín y puerro",
+      "category": "Cucharas",
+      "desc": "Crema suave de patata, calabacín y puerro, con un toque cremoso de queso en lonchas.",
+      "time": 35,
+      "difficulty": "Muy fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "patatas",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "calabacines",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "puerro",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "tranchetes de queso",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "pastilla de caldo de verduras",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "agua",
+          "amount": 3,
+          "unit": "vasos"
+        },
+        {
+          "name": "aceite",
+          "amount": 2,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Sofreír las patatas y el puerro troceados en la olla con un buen chorreón de aceite.",
+        "A los 5 minutos, añadir el calabacín en trozos y dejar pochando otros 5 minutos.",
+        "Añadir 3 vasos de agua, hasta que más o menos cubra, y dejar hervir 20 minutos.",
+        "A los 10 minutos de empezar a hervir, añadir el tranchete de queso y la pastilla de caldo.",
+        "Batir con la batidora hasta obtener un puré fino."
+      ],
+      "custom": true
+    },
+    {
+      "id": "risotto_de_setas",
+      "title": "Risotto de setas",
+      "category": "Arroces",
+      "desc": "Arroz cremoso italiano con setas, champiñones y queso parmesano, cocido poco a poco con caldo de verduras.",
+      "time": 40,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "arroz (tipo arborio o carnaroli)",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "setas",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "name": "caldo de verduras",
+          "amount": 1,
+          "unit": "l"
+        },
+        {
+          "name": "cebolla mediana",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 3,
+          "unit": "cda"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Picar la cebolla finamente y limpiar y laminar las setas y los champiñones.",
+        "Sofreír la cebolla en aceite de oliva a fuego suave hasta que esté transparente; añadir las setas y los champiñones, y sofreír unos minutos hasta que estén tiernos.",
+        "Añadir el arroz y rehogarlo un par de minutos, removiendo, hasta que los granos se vuelvan ligeramente translúcidos por los bordes.",
+        "Calentar el caldo de verduras y empezar a añadirlo al arroz poco a poco, un cazo cada vez, sin dejar de remover y esperando a que el arroz absorba el líquido antes de añadir más.",
+        "Continuar así durante unos 18-20 minutos, hasta que el arroz esté cremoso y en su punto (al dente).",
+        "Retirar del fuego, añadir el queso parmesano rallado, salpimentar y remover bien hasta que quede cremoso.",
+        "Dejar reposar un par de minutos con la olla tapada antes de servir."
+      ],
+      "custom": true
+    },
+    {
+      "id": "solomillo_salsa_pimienta",
+      "title": "Solomillo con salsa de pimienta",
+      "category": "Carnes",
+      "desc": "Medallones de solomillo dorados, servidos con una cremosa salsa de pimienta, vino blanco y nata.",
+      "time": 25,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "medallones de solomillo",
+          "amount": 6,
+          "unit": ""
+        },
+        {
+          "name": "nata",
+          "amount": 135,
+          "unit": "g"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 1,
+          "unit": "tacita"
+        },
+        {
+          "name": "pimienta negra en grano",
+          "amount": 1,
+          "unit": "cda"
+        },
+        {
+          "name": "pimienta molida",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 2,
+          "unit": "cda"
+        }
+      ],
+      "steps": [
+        "Salpimentar los medallones de solomillo y dorarlos en una sartén con aceite de oliva bien caliente, a fuego fuerte, hasta que queden dorados por fuera y jugosos por dentro. Retirarlos y reservarlos tapados.",
+        "En la misma sartén, aprovechando los jugos que ha soltado la carne, añadir el vino blanco y dejar que se evapore el alcohol un par de minutos, removiendo para desglasar el fondo.",
+        "Añadir los granos de pimienta negra y la pimienta molida, y dejar cocinar un momento para que suelten su aroma.",
+        "Incorporar la nata y dejar cocinar a fuego lento hasta que la salsa espese ligeramente.",
+        "Devolver los medallones a la sartén para que se impregnen de la salsa y terminen de calentarse, y servir."
+      ],
+      "custom": true
+    },
+    {
+      "id": "sopa_de_tomate",
+      "title": "Sopa de tomate",
+      "category": "Cucharas",
+      "desc": "Sopa suave de tomate con un sofrito de ajo, cebolla y zanahoria, ligada con un poco de harina.",
+      "time": 35,
+      "difficulty": "Muy fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "tomates",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "cebolla mediana",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "caldo de verduras o agua",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "zanahoria",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "harina",
+          "amount": 1,
+          "unit": "cda"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Picar el ajo, la cebolla y la zanahoria, y sofreírlos en un poco de aceite de oliva hasta que estén blandos.",
+        "Añadir la harina y rehogarla un minuto, removiendo, para que no se queme.",
+        "Trocear los tomates y añadirlos a la olla junto con el caldo o el agua.",
+        "Salpimentar y dejar cocer a fuego medio unos 20 minutos, hasta que la zanahoria esté tierna.",
+        "Triturar todo con la batidora hasta obtener una sopa fina y homogénea. Rectificar de sal si es necesario."
+      ],
+      "custom": true
+    },
+    {
+      "id": "ternera_en_salsa",
+      "title": "Ternera en salsa",
+      "category": "Guisos",
+      "desc": "Aguja de ternera guisada en olla exprés con una salsa de verduras trituradas, vino blanco y especias.",
+      "time": 60,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "aguja de ternera en cuadros",
+          "amount": 0.5,
+          "unit": "kg"
+        },
+        {
+          "name": "zanahorias",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "puerro",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "vino blanco",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "pimiento de piquillo",
+          "amount": 3,
+          "unit": ""
+        },
+        {
+          "name": "tomillo",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "laurel",
+          "amount": 1,
+          "unit": "hoja"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "ajos",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "aceite",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "agua",
+          "amount": 500,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sofreír la verdura (zanahoria, cebolla, puerro y pimientos de piquillo) junto con el ajo.",
+        "Pasar el sofrito por la batidora hasta triturarlo.",
+        "Marcar la ternera en una sartén y añadir el vino blanco.",
+        "Meter todo (la ternera, el sofrito triturado, el tomillo, el azafrán, el laurel, la sal, la pimienta y el perejil) en la olla, y añadir agua hasta cubrirlo todo.",
+        "Cerrar la olla exprés y hervir 40 minutos."
+      ],
+      "custom": true
+    },
+    {
+      "id": "tabla_coccion_marisco",
+      "title": "Tabla de cocción de marisco (referencia)",
+      "category": "Referencia",
+      "desc": "Guía de sal, tiempo de cocción y si el agua debe estar fría o hirviendo, según el tipo de marisco.",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 1,
+      "ingredients": [
+        {
+          "name": "agua",
+          "amount": 1,
+          "unit": "l"
+        },
+        {
+          "name": "sal (la cantidad depende del marisco, ver pasos)",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Método general: poner el agua con la sal indicada a fuego fuerte; si el marisco entra en agua fría, meterlo antes de que hierva; si entra en agua caliente, esperar a que hierva primero. Contar el tiempo de cocción según cada tipo, y al terminar, enfriar el marisco en agua con hielo para cortar la cocción.",
+        "Bogavante grande: 50 g de sal por litro de agua, 30 min, agua fría.",
+        "Bogavante pequeño: 50 g de sal por litro de agua, 20 min, agua fría.",
+        "Buey grande: 60 g de sal por litro de agua, 20 min, agua fría.",
+        "Buey mediano: 60 g de sal por litro de agua, 18 min, agua fría.",
+        "Camarones: 60 g de sal por litro de agua, recuperar el hervor, agua ya hirviendo.",
+        "Carabinero: 70 g de sal por litro de agua, 2 min, agua ya hirviendo.",
+        "Centolla grande: 45 g de sal por litro de agua, 18 min, agua fría.",
+        "Centolla mediana: 45 g de sal por litro de agua, 15 min, agua fría.",
+        "Cigala grande: 60 g de sal por litro de agua, 6 min, agua ya hirviendo.",
+        "Cigala mediana: 60 g de sal por litro de agua, 3 min, agua ya hirviendo.",
+        "Gambas: 50 g de sal por litro de agua, recuperar el hervor, agua ya hirviendo.",
+        "Langosta: 60 g de sal por litro de agua, 15 min, agua ya hirviendo.",
+        "Langostinos: 50 g de sal por litro de agua, recuperar el hervor, agua ya hirviendo.",
+        "Nécora grande: 60 g de sal por litro de agua, 7 min, agua fría.",
+        "Nécora pequeña: 60 g de sal por litro de agua, 5 min, agua fría.",
+        "Percebes: 70 g de sal por litro de agua, recuperar el hervor, agua ya hirviendo.",
+        "Nota: otra tarjeta de referencia da tiempos algo distintos para algunos mariscos, todos con 60 g de sal por litro salvo gamba (50 g) y percebe (70 g): camarón 0,5 min, bígaros 1,5 min, langosta mediana 20 min y langosta grande 30 min, langostino mediano 1,5 min y grande 2 min, lubricante mediano 20 min y grande 30 min, cigala grande 3 min, gamba 1 min. Comprueba cuál coincide con la fuente que sueles usar."
+      ],
+      "custom": true
+    }
+  ],
   "overrides": {}
 }
