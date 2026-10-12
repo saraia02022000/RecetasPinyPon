@@ -2354,7 +2354,7 @@
       "title": "Muslos de pollo al horno",
       "category": "Carnes",
       "desc": "Muslos de pollo asados al horno con patatas panaderas",
-      "time": 50,
+      "time": 90,
       "difficulty": "Fácil",
       "baseServings": 2,
       "ingredients": [
@@ -2387,16 +2387,21 @@
           "name": "Cucharada de aceite",
           "amount": 2,
           "unit": ""
+        },
+        {
+          "name": "Ajo",
+          "amount": 1,
+          "unit": ""
         }
       ],
       "steps": [
         "Cortar las patatas, salpimentarlas y ponerlas en una bandeja con un poco de aceite ",
         "Precalentar el horno a 220 grados",
         "Poner el cuarto trasero del pollo sobre las patatas",
-        "Cuando el horno esté caliente meter el pollo sobre las patatas e introducir la bandeja en el horno rociando vino blanco, salpimentando y poniendo aceite encima ",
-        "Mantener 20 minutos",
+        "Cuando el horno esté caliente meter el pollo sobre las patatas e introducir la bandeja en el horno rociando vino blanco, salpimentando y poniendo aceite encima junto el ajo picado",
+        "Mantener 40 minutos",
         "Dar la vuelta al pollo y echar más vino, sal y pimienta y aceite ",
-        "Mantener 20 minutos hasta que esté hecho"
+        "Mantener 40 minutos hasta que esté hecho"
       ],
       "custom": true
     },
