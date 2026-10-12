@@ -1034,7 +1034,7 @@
     <div class="field-row">
       <div class="field">
         <label>Categoría</label>
-        <input type="text" id="editCategory">
+        <select id="editCategory"></select>
       </div>
       <div class="field">
         <label>Dificultad</label>
@@ -1748,11 +1748,24 @@ const editIngredientsList = document.getElementById('editIngredientsList');
 const editStepsList = document.getElementById('editStepsList');
 const editModalStatus = document.getElementById('editModalStatus');
 
+function populateCategorySelect(currentCategory){
+  const select = document.getElementById('editCategory');
+  const options = getCategories().filter(c => c !== "Todas");
+  // receta nueva sin categoría todavía: no forzamos "Otras", dejamos la primera opción real
+  const normalized = currentCategory ? normalizeCategory(currentCategory) : null;
+  // si la receta trae una categoría que todavía no está en la lista (caso raro), la añadimos para no perderla
+  if(normalized && !options.includes(normalized)){
+    options.push(normalized);
+  }
+  select.innerHTML = options.map(c => `<option value="${c}">${c}</option>`).join("");
+  select.value = normalized || options[0];
+}
+
 function openEditModal(recipe){
   editState = JSON.parse(JSON.stringify(recipe)); // clon profundo
   document.getElementById('editModalTitle').textContent = editState.isNew ? "Nueva receta" : "Editar receta";
   document.getElementById('editTitle').value = editState.title || "";
-  document.getElementById('editCategory').value = editState.category || "";
+  populateCategorySelect(editState.category);
   document.getElementById('editDifficulty').value = editState.difficulty || "Fácil";
   document.getElementById('editTime').value = editState.time || 30;
   document.getElementById('editServings').value = editState.baseServings || 4;
