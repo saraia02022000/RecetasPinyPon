@@ -2471,6 +2471,39 @@
         "Cuando el arroz lleve hirviendo unos 20 minutos (revisando para echar más agua si es necesario) echar el pulpo y los gambones pelados y dejar unos 2-3 minutos hasta que la gamba de estar transparente"
       ],
       "custom": true
+    },
+    {
+      "id": "fabes_canela",
+      "title": "Fabes canela",
+      "category": "Cuchara",
+      "desc": "Fabes de canela con compango y patatas",
+      "time": 60,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "Fabes de canela",
+          "amount": 400,
+          "unit": "Gramos"
+        },
+        {
+          "name": "Compango",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Patatas",
+          "amount": 2,
+          "unit": "Unidades"
+        }
+      ],
+      "steps": [
+        "Poner les fabes en remojo por 6-8 horas como mínimo ",
+        "Poner a cocer les fabes y el compango, con agua que las cubra 2 o 3 dedos. Tiempo de cocción: 45 minutos ",
+        "Pelar y escachar las patatas y añadir a les fabes. Dejar cocer durante 15-20 minutos más ",
+        "Ajustar de sal y a comer "
+      ],
+      "custom": true
     }
   ],
   "overrides": {}
