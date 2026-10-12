@@ -2399,6 +2399,73 @@
         "Mantener 20 minutos hasta que esté hecho"
       ],
       "custom": true
+    },
+    {
+      "id": "arroz_de_pulpo_y_gambones",
+      "title": "Arroz de pulpo y gambones",
+      "category": "Arroces",
+      "desc": "Arroz meloso con pulpo y fumet de gambones",
+      "time": 40,
+      "difficulty": "Media",
+      "baseServings": 2,
+      "ingredients": [
+        {
+          "name": "Arroz (puñados)",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "Ajos",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Pimientos",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "Cebolla ",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Tomate",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Pulpo ",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Gambones ",
+          "amount": 6,
+          "unit": ""
+        },
+        {
+          "name": "Sal y pimienta",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Pimentón ",
+          "amount": 1,
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Pelar los gambones y reservar las cabezas y piel",
+        "En una sartén, sonreír las sobras de los gambones, espachurrando las cabezas para sacarle jugo",
+        "Meter todo lo sofrito en un cazo con agua de dejar que hierva para hacer el fumet",
+        "Picar la cebolla, el ajo, los pimientos y el tomate (pelado) y ponerlo a sofreír",
+        "Una vez estén pochados, echar el pimentón para que dore un poco",
+        "Echar a la sartén el arroz, dejar que poche un minutos moviendo sin parar y echar el fumet poco a poco",
+        "Sellar el pulpo levemente y cortar",
+        "Cuando el arroz lleve hirviendo unos 20 minutos (revisando para echar más agua si es necesario) echar el pulpo y los gambones pelados y dejar unos 2-3 minutos hasta que la gamba de estar transparente"
+      ],
+      "custom": true
     }
   ],
   "overrides": {}
