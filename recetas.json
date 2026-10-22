@@ -2504,6 +2504,70 @@
         "Ajustar de sal y a comer "
       ],
       "custom": true
+    },
+    {
+      "id": "cocido",
+      "title": "Cocido",
+      "category": "Cuchara",
+      "desc": "Garbanzos con pollo y ternera",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "Garbanzos",
+          "amount": 0.5,
+          "unit": "Kilos"
+        },
+        {
+          "name": "Cuarto trasero de pollo",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Puerro",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Zanahoria",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "Ternera",
+          "amount": 200,
+          "unit": "Gramos"
+        },
+        {
+          "name": "Jamón ",
+          "amount": 200,
+          "unit": "Gramos"
+        },
+        {
+          "name": "Hueso",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Sal",
+          "amount": 0,
+          "unit": ""
+        },
+        {
+          "name": "Azafrán ",
+          "amount": 0,
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Poner en agua caliente los garbanzos durante 8 horas",
+        "Cambiar el agua y echar el resto de ingredientes en una olla express con fuego fuerte hasta que empieza a hervir",
+        "Quitar la espuma que va apareciendo hasta que deja de salir",
+        "Tapar la olla express y esperar 15 minutos desde que está con la presión fuerte. En ese momento bajar al mínimo el fuego",
+        "Abrir la tapadera pasado el tiempo necesario y mantener hirviendo destapado durante otros 30 minutos"
+      ],
+      "custom": true
     }
   ],
   "overrides": {}
