@@ -1,90 +1,6 @@
 {
   "customRecipes": [
     {
-      "id": "rabo_de_toro",
-      "title": "Rabo de toro",
-      "category": "Guisos",
-      "desc": "Guiso tradicional de rabo de toro estofado con verduras y vino tinto hasta quedar tierno.",
-      "time": 165,
-      "difficulty": "Media",
-      "baseServings": 6,
-      "ingredients": [
-        {
-          "name": "rabo de toro",
-          "amount": 1.5,
-          "unit": "kg"
-        },
-        {
-          "name": "cebolla grande",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "zanahorias",
-          "amount": 3,
-          "unit": ""
-        },
-        {
-          "name": "apio",
-          "amount": 1,
-          "unit": "rama"
-        },
-        {
-          "name": "pimiento rojo",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "ajos",
-          "amount": 2,
-          "unit": "dientes"
-        },
-        {
-          "name": "hojas de laurel",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "vino tinto",
-          "amount": 750,
-          "unit": "ml"
-        },
-        {
-          "name": "caldo",
-          "amount": 500,
-          "unit": "ml"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "cdta"
-        },
-        {
-          "name": "pimienta",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "harina para rebozar",
-          "amount": 2,
-          "unit": "cda"
-        },
-        {
-          "name": "pimentón",
-          "amount": 1,
-          "unit": "cdta"
-        }
-      ],
-      "steps": [
-        "Salpimentar los trozos de rabo, enharinarlos ligeramente y sofreírlos hasta que se doren.",
-        "Añadir la cebolla, las zanahorias, el apio, el pimiento rojo y los ajos picados, y rehogar.",
-        "Añadir el caldo y el vino tinto junto con el laurel y el pimentón.",
-        "Dejar cocer a fuego lento unas 2 horas, hasta que la carne esté tierna.",
-        "Opcionalmente, añadir patatas cortadas en cuadraditos hacia el final de la cocción."
-      ],
-      "custom": true
-    },
-    {
       "id": "menestra_de_cordero",
       "title": "Menestra de cordero",
       "category": "Guisos",
@@ -627,614 +543,6 @@
       "custom": true
     },
     {
-      "id": "cardo_con_jamon",
-      "title": "Cardo con jamón",
-      "category": "Verduras",
-      "desc": "Cardo cocido y salteado con ajo, jamón y perejil, rematado con huevo cocido rallado.",
-      "time": 30,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "cardo",
-          "amount": 350,
-          "unit": "g"
-        },
-        {
-          "name": "jamón",
-          "amount": 80,
-          "unit": "g"
-        },
-        {
-          "name": "ajo",
-          "amount": 2,
-          "unit": "dientes"
-        },
-        {
-          "name": "limón (en zumo)",
-          "amount": 0.5,
-          "unit": ""
-        },
-        {
-          "name": "huevo cocido",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "aceite",
-          "amount": 2,
-          "unit": "cda"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "cdta"
-        }
-      ],
-      "steps": [
-        "Cocer el cardo en trozos con el zumo de limón y la sal unos 15 minutos en olla exprés.",
-        "Sofreír los ajos, el jamón y el perejil, y añadir la verdura cocida; sofreír todo junto.",
-        "Rallar el huevo cocido por encima."
-      ],
-      "custom": true
-    },
-    {
-      "id": "solomillo_cerdo_sal",
-      "title": "Solomillo de cerdo a la sal (Thermomix)",
-      "category": "Carnes",
-      "desc": "Solomillos cocinados al vapor sobre una costra de sal gorda y hierbas aromáticas, con Thermomix.",
-      "time": 45,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "agua",
-          "amount": 750,
-          "unit": "g"
-        },
-        {
-          "name": "sal gorda",
-          "amount": 1.75,
-          "unit": "kg"
-        },
-        {
-          "name": "solomillos",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "hojas de laurel",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "ramilletes de hierbas (tomillo, orégano, romero...)",
-          "amount": 2,
-          "unit": ""
-        }
-      ],
-      "steps": [
-        "Poner el agua en el vaso 8 min/Varoma/vel cuchara junto con unas pocas hierbas.",
-        "Atar los solomillos cubiertos con las hierbas, revolcándolos por todas partes.",
-        "Poner en el Varoma la sal gorda y los solomillos, y tapar con sal y con la tapa.",
-        "Programar 30 min/Varoma/Vel 2.",
-        "Pasado el tiempo, quitar la sal y cortar en rodajas. Servir con la salsa que os guste."
-      ],
-      "custom": true
-    },
-    {
-      "id": "croquetas_espinacas_queso",
-      "title": "Croquetas de espinacas y queso (Thermomix)",
-      "category": "Entrantes",
-      "desc": "Croquetas cremosas de bechamel con espinacas y queso, hechas con Thermomix.",
-      "time": 30,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "aceite",
-          "amount": 50,
-          "unit": "g"
-        },
-        {
-          "name": "cebolla",
-          "amount": 40,
-          "unit": "g"
-        },
-        {
-          "name": "harina",
-          "amount": 150,
-          "unit": "g"
-        },
-        {
-          "name": "leche",
-          "amount": 400,
-          "unit": "g"
-        },
-        {
-          "name": "queso",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "espinacas (cocidas y escurridas)",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "sal y nuez moscada",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "harina, huevos batidos y pan rallado (para rebozar)",
-          "amount": 3,
-          "unit": "huevos"
-        }
-      ],
-      "steps": [
-        "Poner el aceite 2 min/Varoma/Vel 1.",
-        "Añadir la cebolla y sofreír 3 min/Varoma/Vel 4.",
-        "Incorporar la harina 2 min/100°/Vel 2.",
-        "Añadir la leche, el queso, la sal y la nuez moscada 12 seg/Vel 8.",
-        "Programar 8 min/90°/Vel 2,5 y añadir las espinacas picaditas por el bocal.",
-        "Dejar en una bandeja humedecida y enfriar en la nevera al menos 8 horas.",
-        "Formar las croquetas, pasarlas por harina, huevo y pan rallado.",
-        "Freír en aceite fuerte."
-      ],
-      "custom": true
-    },
-    {
-      "id": "fideua",
-      "title": "Fideuá (Thermomix)",
-      "category": "Arroces",
-      "desc": "Fideuá con almejas, gambas y calamares, hecha en Thermomix con fumet casero.",
-      "time": 50,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "almejas",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "gambas arroceras (o calamares en trozos)",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "aceite",
-          "amount": 80,
-          "unit": "g"
-        },
-        {
-          "name": "pastilla de caldo (o sal)",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "pimiento verde",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "pimiento rojo",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "cebolla",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "tomate triturado",
-          "amount": 150,
-          "unit": "g"
-        },
-        {
-          "name": "agua",
-          "amount": 500,
-          "unit": "g"
-        },
-        {
-          "name": "ajos",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "azafrán",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "fideos de fideuá",
-          "amount": 250,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Poner en el vaso las cáscaras y cabezas de las gambas con 30 g de aceite, y rehogar 5 min/Varoma/Vel 2.",
-        "Agregar el agua, 7 min/Varoma/Vel 2.",
-        "Colar el fumet y reservar (secar el vaso).",
-        "Poner 50 g de aceite, el pimiento rojo, el pimiento verde, la cebolla y el ajo, y trocear 4 seg/Vel 5.",
-        "Añadir el tomate y, en el Varoma, las almejas limpias; cocer 10 min/Varoma/Vel 1 hasta que se abran.",
-        "Añadir los calamares al vaso 5 min/Varoma/vel cuchara.",
-        "Añadir el caldo reservado, el azafrán y la pastilla de caldo, 7 min/Varoma/Vel 1.",
-        "Añadir los fideos 7-9 min (según indique el paquete) a 100°/Vel 1.",
-        "Dejar reposar 5 minutos con los cuerpos de las gambas y las almejas fuera del vaso."
-      ],
-      "custom": true
-    },
-    {
-      "id": "tortitas_camarones",
-      "title": "Tortitas de camarones (Thermomix)",
-      "category": "Entrantes",
-      "desc": "Tortitas crujientes de garbanzo con camarones o gambas, típicas del sur de España.",
-      "time": 50,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "garbanzos secos",
-          "amount": 130,
-          "unit": "g"
-        },
-        {
-          "name": "harina de fuerza",
-          "amount": 130,
-          "unit": "g"
-        },
-        {
-          "name": "sal",
-          "amount": 0.5,
-          "unit": "cdta"
-        },
-        {
-          "name": "cebolla",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "agua (o agua con gas)",
-          "amount": 320,
-          "unit": "g"
-        },
-        {
-          "name": "camarones o gambas peladas",
-          "amount": 300,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Poner los garbanzos 2 min, vel de 5 a 10.",
-        "Poner la cebolla y el perejil 10 seg/Vel 4.",
-        "Poner la mariposa y mezclar con la harina y la sal 30 seg/Vel 2.",
-        "Agregar el agua vel 2 poco a poco hasta obtener una masa homogénea.",
-        "Añadir los camarones y mezclar 10 seg/Vel 1,5.",
-        "Dejar reposar 30 minutos.",
-        "En aceite fuerte, añadir una cucharada sopera de la mezcla, extenderla un poco con la cuchara y freír."
-      ],
-      "custom": true
-    },
-    {
-      "id": "sepia_al_ajillo",
-      "title": "Sepia al ajillo (Thermomix)",
-      "category": "Pescados y mariscos",
-      "desc": "Sepia troceada y sofrita lentamente con ajo y perejil, con Thermomix.",
-      "time": 30,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "ajos",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "aceite",
-          "amount": 50,
-          "unit": "g"
-        },
-        {
-          "name": "sepia grande",
-          "amount": 1,
-          "unit": "kg"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "cdta"
-        }
-      ],
-      "steps": [
-        "Poner en el vaso los ajos y el perejil, y triturar 5 seg en Vel 5. Bajar los restos.",
-        "Añadir el aceite y sofreír 5 min, Varoma, Vel 1.",
-        "Añadir la sepia troceada y la sal. Sofreír 20 min, Varoma, giro inverso, vel cuchara."
-      ],
-      "custom": true
-    },
-    {
-      "id": "alubias_con_bacalao",
-      "title": "Alubias con bacalao (Thermomix)",
-      "category": "Cucharas",
-      "desc": "Guiso de alubias blancas con bacalao desalado y pimientos, con Thermomix.",
-      "time": 35,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "aceite de oliva",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "bacalao desalado",
-          "amount": 300,
-          "unit": "g"
-        },
-        {
-          "name": "pimiento rojo",
-          "amount": 50,
-          "unit": "g"
-        },
-        {
-          "name": "pimiento verde",
-          "amount": 50,
-          "unit": "g"
-        },
-        {
-          "name": "cebolla",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "tomate triturado",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "agua",
-          "amount": 500,
-          "unit": "g"
-        },
-        {
-          "name": "alubias blancas cocidas",
-          "amount": 2,
-          "unit": "botes"
-        }
-      ],
-      "steps": [
-        "Poner 50 g de aceite y programar 3 min/Varoma/Vel 1.",
-        "Agregar el bacalao y rehogar 4 min/Varoma/vel cuchara.",
-        "Retirar y reservar.",
-        "Trocear los pimientos y la cebolla 3 seg/Vel 5.",
-        "Añadir los otros 50 g de aceite, 7 min/Varoma/vel cuchara.",
-        "Añadir el tomate, 1 min/Varoma/vel cuchara.",
-        "Colocar la mariposa, añadir el bacalao y el agua, 10 min/Varoma/vel cuchara.",
-        "Añadir las alubias lavadas, 2 min/Varoma/vel cuchara."
-      ],
-      "custom": true
-    },
-    {
-      "id": "merluza_salsa_gambas",
-      "title": "Merluza en salsa con gambas (Thermomix)",
-      "category": "Pescados y mariscos",
-      "desc": "Lomos de merluza al vapor sobre una salsa de ajo, cebolla, vino blanco y azafrán, con gambas.",
-      "time": 30,
-      "difficulty": "Media",
-      "baseServings": 2,
-      "ingredients": [
-        {
-          "name": "lomos de merluza",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "gambas peladas",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "ajos",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "cebolla",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "azafrán",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "sal y pimienta",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "aceite",
-          "amount": 50,
-          "unit": "g"
-        },
-        {
-          "name": "vino blanco",
-          "amount": 75,
-          "unit": "g"
-        },
-        {
-          "name": "pastilla de caldo de pescado",
-          "amount": 0.5,
-          "unit": ""
-        },
-        {
-          "name": "agua a temperatura ambiente",
-          "amount": 100,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Picar el perejil y los ajos 3 seg/Vel 7.",
-        "Añadir la cebolla 3 seg/Vel 7.",
-        "Añadir el aceite 5 min/Varoma/Vel 1.",
-        "Salpimentar los filetes y las gambas, y ponerlos en la bandeja Varoma untada en aceite.",
-        "Añadir al vaso el agua, el vino, el azafrán y la pastilla de caldo. Cerrar el vaso, poner el Varoma y programar 15-18 min/Varoma/Vel 1."
-      ],
-      "custom": true
-    },
-    {
-      "id": "carruecano_frito",
-      "title": "Carruécano frito (Thermomix)",
-      "category": "Verduras",
-      "desc": "Carruécano (calabaza local) troceado y cocinado lentamente con ajo y aceite, con Thermomix.",
-      "time": 40,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "carruécano",
-          "amount": 700,
-          "unit": "g"
-        },
-        {
-          "name": "ajos",
-          "amount": 10,
-          "unit": "dientes"
-        },
-        {
-          "name": "aceite",
-          "amount": 60,
-          "unit": "g"
-        },
-        {
-          "name": "sal y pimienta",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "guindilla picadita (opcional)",
-          "amount": 1,
-          "unit": "pizca"
-        }
-      ],
-      "steps": [
-        "Echar los ajos partidos en el vaso y trocear 5 segundos a Vel 5.",
-        "Añadir el aceite: 2 min, Varoma, Vel 1.",
-        "Añadir el carruécano limpio y troceado como para tortilla, la sal, la pimienta al gusto (y la guindilla picadita opcional). Programar 30 min, Varoma, Vel 2."
-      ],
-      "custom": true
-    },
-    {
-      "id": "setas_con_patatas",
-      "title": "Setas con patatas (Thermomix)",
-      "category": "Verduras",
-      "desc": "Guiso de patatas cascadas con setas, pimentón y hierbas aromáticas, con Thermomix.",
-      "time": 45,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "cebolla",
-          "amount": 120,
-          "unit": "g"
-        },
-        {
-          "name": "setas",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "ajo",
-          "amount": 4,
-          "unit": "dientes"
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "guindilla (opcional)",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "laurel",
-          "amount": 1,
-          "unit": "hoja"
-        },
-        {
-          "name": "tomillo",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "patatas",
-          "amount": 700,
-          "unit": "g"
-        },
-        {
-          "name": "aceite",
-          "amount": 25,
-          "unit": "g"
-        },
-        {
-          "name": "harina",
-          "amount": 5,
-          "unit": "g"
-        },
-        {
-          "name": "pimentón",
-          "amount": 1,
-          "unit": "cdta"
-        },
-        {
-          "name": "pastilla de caldo de carne",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "agua caliente",
-          "amount": 900,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Poner la cebolla 3 seg/Vel 5.",
-        "Añadir el aceite y la guindilla, 8 min/Varoma/Vel 1.",
-        "Añadir los ajos y el perejil, y triturar 4 seg/Vel 5.",
-        "Colocar la mariposa y echar las patatas cascadas y las setas partidas en trozos medianos, 3 min/Varoma/vel cuchara.",
-        "Añadir el laurel, el tomillo, el pimentón y la harina, 2 min/Varoma/vel cuchara.",
-        "Añadir la pastilla de carne, la sal y el agua caliente, 20 min/Varoma/vel cuchara.",
-        "Quitar el cubilete y poner el cestillo; dejar reposar un poco y servir."
-      ],
-      "custom": true
-    },
-    {
       "id": "alcachofas_con_almejas",
       "title": "Alcachofas con almejas",
       "category": "Verduras",
@@ -1532,74 +840,6 @@
         "Mientras cuece, sofreír el ajo, la cebolla, el pimiento, el pan, el pimentón dulce, el coñac y el tomate frito.",
         "Añadir el caldo del pescado cocido y triturar muy fino.",
         "Añadir el azafrán, el pescado desmigado y las gambas troceadas, y dejar cocer unos minutos."
-      ],
-      "custom": true
-    },
-    {
-      "id": "sopa_minestrone",
-      "title": "Sopa minestrone (Thermomix)",
-      "category": "Cucharas",
-      "desc": "Sopa de verduras variadas, parcialmente triturada para dar cuerpo al caldo, con Thermomix.",
-      "time": 75,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "patatas medianas",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "zanahorias",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "nabo",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "puerro grande",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "rama de apio",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "col rizada",
-          "amount": 0.5,
-          "unit": ""
-        },
-        {
-          "name": "acelgas",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "agua",
-          "amount": 1.5,
-          "unit": "l"
-        },
-        {
-          "name": "aceite",
-          "amount": 2,
-          "unit": "cda"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        }
-      ],
-      "steps": [
-        "Cortar las verduras en trozos regulares.",
-        "Poner el agua, el aceite, la sal y las verduras troceadas en el vaso: 1 hora, 100°, vel 1.",
-        "Retirar 3/4 partes de las verduras y triturar lo que queda: 10 seg, vel 5.",
-        "Volver a echar en el vaso la minestrone: 2 min, 100°, vel 1, sin cubilete para que evapore un poco."
       ],
       "custom": true
     },
@@ -1916,208 +1156,6 @@
       "custom": true
     },
     {
-      "id": "patatas_baezanas",
-      "title": "Patatas baezanas (Thermomix)",
-      "category": "Verduras",
-      "desc": "Patatas guisadas con champiñones, ajo, perejil y azafrán, con Thermomix.",
-      "time": 30,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "patatas",
-          "amount": 600,
-          "unit": "g"
-        },
-        {
-          "name": "champiñones en lata",
-          "amount": 1,
-          "unit": "lata"
-        },
-        {
-          "name": "ajos",
-          "amount": 3,
-          "unit": "dientes"
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "pimienta",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "azafrán",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "aceite",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "agua (completar con el líquido de la lata)",
-          "amount": 250,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Poner el ajo, el perejil y el aceite, y triturar.",
-        "Freír: 4 min, Varoma, Vel 1.",
-        "Añadir las patatas troceadas al tamaño de un bocado, el agua y la sal: 8 min, Varoma, giro a la izquierda, vel cuchara.",
-        "Añadir los champiñones, la pimienta y el azafrán: 10 min, Varoma, giro a la izquierda, vel 1."
-      ],
-      "custom": true
-    },
-    {
-      "id": "migas",
-      "title": "Migas (Thermomix)",
-      "category": "Otras",
-      "desc": "Migas de pan con ajo, chorizo y panceta, hechas con Thermomix.",
-      "time": 40,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "pan",
-          "amount": 600,
-          "unit": "g"
-        },
-        {
-          "name": "agua",
-          "amount": 85,
-          "unit": "g"
-        },
-        {
-          "name": "aceite",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "dientes de ajo sin pelar (con rajita)",
-          "amount": 8,
-          "unit": ""
-        },
-        {
-          "name": "chorizo",
-          "amount": 150,
-          "unit": "g"
-        },
-        {
-          "name": "pimientos verdes",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "panceta",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "pimentón (opcional)",
-          "amount": 1,
-          "unit": "cdta"
-        }
-      ],
-      "steps": [
-        "Picar el pan, 200 g cada vez, 6 segundos a Vel 7.",
-        "Una vez todo el pan picado en el bol, echar el agua para humedecerlo.",
-        "Verter en el vaso el aceite y el ajo: 5 min, Varoma, giro a la izquierda, vel cuchara.",
-        "Añadir el chorizo, la panceta y los pimientos: 10 min, Varoma, giro a la izquierda, vel cuchara.",
-        "Reservar aparte todo esto menos el aceite, y añadir el pan migado y el pimentón: 10 min, Varoma, giro a la izquierda, vel 3.",
-        "Repetir: 8 min, Varoma, giro a la izquierda, vel 2. En este punto se puede añadir de nuevo el chorizo reservado."
-      ],
-      "custom": true
-    },
-    {
-      "id": "merluza_a_la_gallega",
-      "title": "Merluza a la gallega (Thermomix)",
-      "category": "Pescados y mariscos",
-      "desc": "Merluza al vapor con patatas, guisantes y una ajada de aceite, ajo y pimentón, con Thermomix.",
-      "time": 40,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "centros de merluza",
-          "amount": 6,
-          "unit": ""
-        },
-        {
-          "name": "guisantes congelados",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "patata en trozos grandes",
-          "amount": 800,
-          "unit": "g"
-        },
-        {
-          "name": "laurel",
-          "amount": 1,
-          "unit": "hoja"
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "cebolla (partida en cuartos)",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "agua",
-          "amount": 400,
-          "unit": "g"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "aceite (para la ajada)",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "ajos fileteados",
-          "amount": 5,
-          "unit": ""
-        },
-        {
-          "name": "pimentón dulce",
-          "amount": 2,
-          "unit": "cda"
-        },
-        {
-          "name": "vinagre",
-          "amount": 1,
-          "unit": "chorro"
-        }
-      ],
-      "steps": [
-        "Preparar el Varoma: pincelarlo con aceite y poner el pescado y los guisantes; reservar.",
-        "Poner la mariposa y todos los ingredientes del vaso (patatas, laurel, perejil, cebolla, agua y sal): 10 min, Varoma, giro a la izquierda, vel cuchara.",
-        "Colocar el Varoma encima y programar: 12 min, Varoma, giro a la izquierda, vel cuchara.",
-        "Verter en una fuente lo del vaso sin el agua, y colocar encima el pescado.",
-        "Preparar la ajada: poner el aceite (3 min, Varoma, Vel 1), añadir los ajos (5 min, Varoma, Vel 1), añadir el pimentón (15 seg, Vel 1, sin temperatura) y por último el vinagre. Verter por encima del pescado."
-      ],
-      "custom": true
-    },
-    {
       "id": "lentejas",
       "title": "Lentejas (olla exprés)",
       "category": "Cucharas",
@@ -2300,64 +1338,6 @@
         "Saltear las gambas y los trozos de calamar en la misma sartén con una cucharada de aceite; añadir el ajo y el perejil, y dejar a fuego medio un minuto.",
         "Cuando las gambas y el calamar estén prácticamente hechos, añadir las gulas junto con otra cucharada de aceite, y remover un par de minutos a fuego lento, solo hasta que las gulas se calienten.",
         "Servir en el plato espolvoreando perejil picado por encima."
-      ],
-      "custom": true
-    },
-    {
-      "id": "guiso_de_garbanzos",
-      "title": "Guiso de garbanzos (Thermomix)",
-      "category": "Cucharas",
-      "desc": "Guiso de garbanzos con chorizo, patata y zanahoria, hecho con Thermomix.",
-      "time": 45,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "puerro (en rodajas)",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "zanahoria (en rodajas gruesas)",
-          "amount": 150,
-          "unit": "g"
-        },
-        {
-          "name": "chorizo (en rodajas)",
-          "amount": 150,
-          "unit": "g"
-        },
-        {
-          "name": "patata (en trozos pequeños)",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "aceite",
-          "amount": 50,
-          "unit": "g"
-        },
-        {
-          "name": "caldo o agua con avecrem",
-          "amount": 750,
-          "unit": "g"
-        },
-        {
-          "name": "garbanzos cocidos (en conserva, lavados y escurridos)",
-          "amount": 800,
-          "unit": "g"
-        },
-        {
-          "name": "laurel",
-          "amount": 1,
-          "unit": "hoja"
-        }
-      ],
-      "steps": [
-        "Poner en el vaso el puerro, la zanahoria y el aceite, y trocear 3 seg, vel 5.",
-        "Añadir el chorizo y sofreír 5 min, 120°, vel 1.",
-        "Añadir el caldo, la patata y el laurel: 22 min, 100°, giro a la izquierda, vel cuchara.",
-        "Añadir los garbanzos: 12 min, 100°, giro a la izquierda, vel cuchara."
       ],
       "custom": true
     },
@@ -2655,126 +1635,6 @@
         "Triturar la salsa y pasarla por el pasapurés si se desea.",
         "Introducir las tajadas de bacalao con la piel hacia arriba dentro de la salsa, y dejar cociendo unos 8 minutos más.",
         "Acompañar con una pequeña ensalada de tomate de guarnición y terminar espolvoreando perejil picado por encima."
-      ],
-      "custom": true
-    },
-    {
-      "id": "arroz_pollo_potas_alcachofas",
-      "title": "Arroz con pollo, potas y alcachofas",
-      "category": "Arroces",
-      "desc": "Arroz caldoso con muslo de pollo, potas, alcachofas y verduras, con un majado de ajo y azafrán.",
-      "time": 60,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "muslo de pollo deshuesado",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "cebolla",
-          "amount": 0.5,
-          "unit": ""
-        },
-        {
-          "name": "puerro",
-          "amount": 0.5,
-          "unit": ""
-        },
-        {
-          "name": "pimiento verde",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "pimiento rojo (un trozo)",
-          "amount": 0.5,
-          "unit": ""
-        },
-        {
-          "name": "tomates",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "alcachofas",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "potas pequeñas (o sepia)",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "laurel",
-          "amount": 1,
-          "unit": "hoja"
-        },
-        {
-          "name": "pimentón molido",
-          "amount": 1,
-          "unit": "cdta"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "azafrán",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "perejil fresco",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "ajos",
-          "amount": 2,
-          "unit": "dientes"
-        },
-        {
-          "name": "vino blanco",
-          "amount": 100,
-          "unit": "ml"
-        },
-        {
-          "name": "colorante alimentario",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "zanahorias",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "habichuelillas (judías verdes)",
-          "amount": 0.25,
-          "unit": "kg"
-        },
-        {
-          "name": "arroz",
-          "amount": 320,
-          "unit": "g"
-        },
-        {
-          "name": "agua",
-          "amount": 900,
-          "unit": "ml"
-        }
-      ],
-      "steps": [
-        "Sofreír el pollo salpimentado junto con una hoja de laurel.",
-        "Hacer un sofrito de verduras: primero la cebolla y el puerro, después el pimiento verde y el rojo, luego el pimentón y rápidamente el tomate. Cuando el tomate lleve unos 5 minutos, añadir las alcachofas y dejar hasta que esté todo bien sofrito; añadir entonces las potas y tenerlo unos 7 minutos más.",
-        "Preparar un majado en el mortero con la sal, el azafrán, el perejil fresco, los ajos machacados y el vino (unos dos medios morteros), y echarlo en la sartén dejando que hierva 10 minutos.",
-        "Añadir un vaso de agua por persona y medio para todos, un poco de colorante, y dejar hervir 20 minutos.",
-        "Cocer las habichuelillas y la zanahoria aparte 10 minutos en olla exprés, y añadirlas al caldo a la vez que el arroz.",
-        "Añadir 2 puñados de arroz por persona y dejar hervir otros 10 minutos."
       ],
       "custom": true
     },
@@ -3613,6 +2473,1018 @@
       "custom": true
     },
     {
+      "id": "fabes_canela",
+      "title": "Fabes canela",
+      "category": "Cuchara",
+      "desc": "Fabes de canela con compango y patatas",
+      "time": 60,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "Fabes de canela",
+          "amount": 400,
+          "unit": "Gramos"
+        },
+        {
+          "name": "Compango",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Patatas",
+          "amount": 2,
+          "unit": "Unidades"
+        }
+      ],
+      "steps": [
+        "Poner les fabes en remojo por 6-8 horas como mínimo ",
+        "Poner a cocer les fabes y el compango, con agua que las cubra 2 o 3 dedos. Tiempo de cocción: 45 minutos ",
+        "Pelar y escachar las patatas y añadir a les fabes. Dejar cocer durante 15-20 minutos más ",
+        "Ajustar de sal y a comer "
+      ],
+      "custom": true
+    },
+    {
+      "id": "cocido",
+      "title": "Cocido",
+      "category": "Cuchara",
+      "desc": "Garbanzos con pollo y ternera",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "Garbanzos",
+          "amount": 0.5,
+          "unit": "Kilos"
+        },
+        {
+          "name": "Cuarto trasero de pollo",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Puerro",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Zanahoria",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "Ternera",
+          "amount": 200,
+          "unit": "Gramos"
+        },
+        {
+          "name": "Jamón ",
+          "amount": 200,
+          "unit": "Gramos"
+        },
+        {
+          "name": "Hueso",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Sal",
+          "amount": 0,
+          "unit": ""
+        },
+        {
+          "name": "Azafrán ",
+          "amount": 0,
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Poner en agua caliente los garbanzos durante 8 horas",
+        "Cambiar el agua y echar el resto de ingredientes en una olla express con fuego fuerte hasta que empieza a hervir",
+        "Quitar la espuma que va apareciendo hasta que deja de salir",
+        "Tapar la olla express y esperar 15 minutos desde que está con la presión fuerte. En ese momento bajar al mínimo el fuego",
+        "Abrir la tapadera pasado el tiempo necesario y mantener hirviendo destapado durante otros 30 minutos"
+      ],
+      "custom": true
+    },
+    {
+      "id": "cardo_con_jamon",
+      "title": "Cardo con jamón",
+      "category": "Verduras",
+      "desc": "Cardo cocido y salteado con ajo, jamón y perejil, rematado con huevo cocido rallado.",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "cardo",
+          "amount": 350,
+          "unit": "g"
+        },
+        {
+          "name": "jamón",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "limón (en zumo)",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "huevo cocido",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "aceite",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "cdta"
+        }
+      ],
+      "steps": [
+        "Cocer el cardo en trozos con el zumo de limón y la sal unos 15 minutos en olla exprés.",
+        "Sofreír los ajos, el jamón y el perejil, y añadir la verdura cocida; sofreír todo junto.",
+        "Rallar el huevo cocido por encima."
+      ],
+      "custom": true
+    },
+    {
+      "id": "solomillo_cerdo_sal",
+      "title": "Solomillo de cerdo a la sal (Thermomix)",
+      "category": "Carnes",
+      "desc": "Solomillos cocinados al vapor sobre una costra de sal gorda y hierbas aromáticas, con Thermomix.",
+      "time": 45,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "agua",
+          "amount": 750,
+          "unit": "g"
+        },
+        {
+          "name": "sal gorda",
+          "amount": 1.75,
+          "unit": "kg"
+        },
+        {
+          "name": "solomillos",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "hojas de laurel",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "ramilletes de hierbas (tomillo, orégano, romero...)",
+          "amount": 2,
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Poner el agua en el vaso 8 min/Varoma/vel cuchara junto con unas pocas hierbas.",
+        "Atar los solomillos cubiertos con las hierbas, revolcándolos por todas partes.",
+        "Poner en el Varoma la sal gorda y los solomillos, y tapar con sal y con la tapa.",
+        "Programar 30 min/Varoma/Vel 2.",
+        "Pasado el tiempo, quitar la sal y cortar en rodajas. Servir con la salsa que os guste."
+      ],
+      "custom": true
+    },
+    {
+      "id": "fideua",
+      "title": "Fideuá (Thermomix)",
+      "category": "Arroces",
+      "desc": "Fideuá con almejas, gambas y calamares, hecha en Thermomix con fumet casero.",
+      "time": 50,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "almejas",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "gambas arroceras (o calamares en trozos)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "aceite",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "pastilla de caldo (o sal)",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimiento verde",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento rojo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "cebolla",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "tomate triturado",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "ajos",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "fideos de fideuá",
+          "amount": 250,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Poner en el vaso las cáscaras y cabezas de las gambas con 30 g de aceite, y rehogar 5 min/Varoma/Vel 2.",
+        "Agregar el agua, 7 min/Varoma/Vel 2.",
+        "Colar el fumet y reservar (secar el vaso).",
+        "Poner 50 g de aceite, el pimiento rojo, el pimiento verde, la cebolla y el ajo, y trocear 4 seg/Vel 5.",
+        "Añadir el tomate y, en el Varoma, las almejas limpias; cocer 10 min/Varoma/Vel 1 hasta que se abran.",
+        "Añadir los calamares al vaso 5 min/Varoma/vel cuchara.",
+        "Añadir el caldo reservado, el azafrán y la pastilla de caldo, 7 min/Varoma/Vel 1.",
+        "Añadir los fideos 7-9 min (según indique el paquete) a 100°/Vel 1.",
+        "Dejar reposar 5 minutos con los cuerpos de las gambas y las almejas fuera del vaso."
+      ],
+      "custom": true
+    },
+    {
+      "id": "tortitas_camarones",
+      "title": "Tortitas de camarones (Thermomix)",
+      "category": "Entrantes",
+      "desc": "Tortitas crujientes de garbanzo con camarones o gambas, típicas del sur de España.",
+      "time": 50,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "garbanzos secos",
+          "amount": 130,
+          "unit": "g"
+        },
+        {
+          "name": "harina de fuerza",
+          "amount": 130,
+          "unit": "g"
+        },
+        {
+          "name": "sal",
+          "amount": 0.5,
+          "unit": "cdta"
+        },
+        {
+          "name": "cebolla",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "agua (o agua con gas)",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "name": "camarones o gambas peladas",
+          "amount": 300,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Poner los garbanzos 2 min, vel de 5 a 10.",
+        "Poner la cebolla y el perejil 10 seg/Vel 4.",
+        "Poner la mariposa y mezclar con la harina y la sal 30 seg/Vel 2.",
+        "Agregar el agua vel 2 poco a poco hasta obtener una masa homogénea.",
+        "Añadir los camarones y mezclar 10 seg/Vel 1,5.",
+        "Dejar reposar 30 minutos.",
+        "En aceite fuerte, añadir una cucharada sopera de la mezcla, extenderla un poco con la cuchara y freír."
+      ],
+      "custom": true
+    },
+    {
+      "id": "sepia_al_ajillo",
+      "title": "Sepia al ajillo (Thermomix)",
+      "category": "Pescados y mariscos",
+      "desc": "Sepia troceada y sofrita lentamente con ajo y perejil, con Thermomix.",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "ajos",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "aceite",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "sepia grande",
+          "amount": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "cdta"
+        }
+      ],
+      "steps": [
+        "Poner en el vaso los ajos y el perejil, y triturar 5 seg en Vel 5. Bajar los restos.",
+        "Añadir el aceite y sofreír 5 min, Varoma, Vel 1.",
+        "Añadir la sepia troceada y la sal. Sofreír 20 min, Varoma, giro inverso, vel cuchara."
+      ],
+      "custom": true
+    },
+    {
+      "id": "alubias_con_bacalao",
+      "title": "Alubias con bacalao (Thermomix)",
+      "category": "Cucharas",
+      "desc": "Guiso de alubias blancas con bacalao desalado y pimientos, con Thermomix.",
+      "time": 35,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "aceite de oliva",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "bacalao desalado",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento rojo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento verde",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "cebolla",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "tomate triturado",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "alubias blancas cocidas",
+          "amount": 2,
+          "unit": "botes"
+        }
+      ],
+      "steps": [
+        "Poner 50 g de aceite y programar 3 min/Varoma/Vel 1.",
+        "Agregar el bacalao y rehogar 4 min/Varoma/vel cuchara.",
+        "Retirar y reservar.",
+        "Trocear los pimientos y la cebolla 3 seg/Vel 5.",
+        "Añadir los otros 50 g de aceite, 7 min/Varoma/vel cuchara.",
+        "Añadir el tomate, 1 min/Varoma/vel cuchara.",
+        "Colocar la mariposa, añadir el bacalao y el agua, 10 min/Varoma/vel cuchara.",
+        "Añadir las alubias lavadas, 2 min/Varoma/vel cuchara."
+      ],
+      "custom": true
+    },
+    {
+      "id": "merluza_salsa_gambas",
+      "title": "Merluza en salsa con gambas (Thermomix)",
+      "category": "Pescados y mariscos",
+      "desc": "Lomos de merluza al vapor sobre una salsa de ajo, cebolla, vino blanco y azafrán, con gambas.",
+      "time": 30,
+      "difficulty": "Media",
+      "baseServings": 2,
+      "ingredients": [
+        {
+          "name": "lomos de merluza",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "gambas peladas",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "ajos",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "cebolla",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "sal y pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "aceite",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "name": "pastilla de caldo de pescado",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "agua a temperatura ambiente",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Picar el perejil y los ajos 3 seg/Vel 7.",
+        "Añadir la cebolla 3 seg/Vel 7.",
+        "Añadir el aceite 5 min/Varoma/Vel 1.",
+        "Salpimentar los filetes y las gambas, y ponerlos en la bandeja Varoma untada en aceite.",
+        "Añadir al vaso el agua, el vino, el azafrán y la pastilla de caldo. Cerrar el vaso, poner el Varoma y programar 15-18 min/Varoma/Vel 1."
+      ],
+      "custom": true
+    },
+    {
+      "id": "carruecano_frito",
+      "title": "Carruécano frito (Thermomix)",
+      "category": "Verduras",
+      "desc": "Carruécano (calabaza local) troceado y cocinado lentamente con ajo y aceite, con Thermomix.",
+      "time": 40,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "carruécano",
+          "amount": 700,
+          "unit": "g"
+        },
+        {
+          "name": "ajos",
+          "amount": 10,
+          "unit": "dientes"
+        },
+        {
+          "name": "aceite",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "sal y pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "guindilla picadita (opcional)",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Echar los ajos partidos en el vaso y trocear 5 segundos a Vel 5.",
+        "Añadir el aceite: 2 min, Varoma, Vel 1.",
+        "Añadir el carruécano limpio y troceado como para tortilla, la sal, la pimienta al gusto (y la guindilla picadita opcional). Programar 30 min, Varoma, Vel 2."
+      ],
+      "custom": true
+    },
+    {
+      "id": "setas_con_patatas",
+      "title": "Setas con patatas (Thermomix)",
+      "category": "Verduras",
+      "desc": "Guiso de patatas cascadas con setas, pimentón y hierbas aromáticas, con Thermomix.",
+      "time": 45,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "cebolla",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "setas",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 4,
+          "unit": "dientes"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "guindilla (opcional)",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "laurel",
+          "amount": 1,
+          "unit": "hoja"
+        },
+        {
+          "name": "tomillo",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "patatas",
+          "amount": 700,
+          "unit": "g"
+        },
+        {
+          "name": "aceite",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "harina",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "pimentón",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "pastilla de caldo de carne",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "agua caliente",
+          "amount": 900,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Poner la cebolla 3 seg/Vel 5.",
+        "Añadir el aceite y la guindilla, 8 min/Varoma/Vel 1.",
+        "Añadir los ajos y el perejil, y triturar 4 seg/Vel 5.",
+        "Colocar la mariposa y echar las patatas cascadas y las setas partidas en trozos medianos, 3 min/Varoma/vel cuchara.",
+        "Añadir el laurel, el tomillo, el pimentón y la harina, 2 min/Varoma/vel cuchara.",
+        "Añadir la pastilla de carne, la sal y el agua caliente, 20 min/Varoma/vel cuchara.",
+        "Quitar el cubilete y poner el cestillo; dejar reposar un poco y servir."
+      ],
+      "custom": true
+    },
+    {
+      "id": "sopa_minestrone",
+      "title": "Sopa minestrone (Thermomix)",
+      "category": "Cucharas",
+      "desc": "Sopa de verduras variadas, parcialmente triturada para dar cuerpo al caldo, con Thermomix.",
+      "time": 75,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "patatas medianas",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "zanahorias",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "nabo",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "puerro grande",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "rama de apio",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "col rizada",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "acelgas",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "agua",
+          "amount": 1.5,
+          "unit": "l"
+        },
+        {
+          "name": "aceite",
+          "amount": 2,
+          "unit": "cda"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        }
+      ],
+      "steps": [
+        "Cortar las verduras en trozos regulares.",
+        "Poner el agua, el aceite, la sal y las verduras troceadas en el vaso: 1 hora, 100°, vel 1.",
+        "Retirar 3/4 partes de las verduras y triturar lo que queda: 10 seg, vel 5.",
+        "Volver a echar en el vaso la minestrone: 2 min, 100°, vel 1, sin cubilete para que evapore un poco."
+      ],
+      "custom": true
+    },
+    {
+      "id": "patatas_baezanas",
+      "title": "Patatas baezanas (Thermomix)",
+      "category": "Verduras",
+      "desc": "Patatas guisadas con champiñones, ajo, perejil y azafrán, con Thermomix.",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "patatas",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones en lata",
+          "amount": 1,
+          "unit": "lata"
+        },
+        {
+          "name": "ajos",
+          "amount": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "perejil",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "pimienta",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "aceite",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "agua (completar con el líquido de la lata)",
+          "amount": 250,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Poner el ajo, el perejil y el aceite, y triturar.",
+        "Freír: 4 min, Varoma, Vel 1.",
+        "Añadir las patatas troceadas al tamaño de un bocado, el agua y la sal: 8 min, Varoma, giro a la izquierda, vel cuchara.",
+        "Añadir los champiñones, la pimienta y el azafrán: 10 min, Varoma, giro a la izquierda, vel 1."
+      ],
+      "custom": true
+    },
+    {
+      "id": "migas",
+      "title": "Migas (Thermomix)",
+      "category": "Otras",
+      "desc": "Migas de pan con ajo, chorizo y panceta, hechas con Thermomix.",
+      "time": 40,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "pan",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 85,
+          "unit": "g"
+        },
+        {
+          "name": "aceite",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "dientes de ajo sin pelar (con rajita)",
+          "amount": 8,
+          "unit": ""
+        },
+        {
+          "name": "chorizo",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "pimientos verdes",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "panceta",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "pimentón (opcional)",
+          "amount": 1,
+          "unit": "cdta"
+        }
+      ],
+      "steps": [
+        "Picar el pan, 200 g cada vez, 6 segundos a Vel 7.",
+        "Una vez todo el pan picado en el bol, echar el agua para humedecerlo.",
+        "Verter en el vaso el aceite y el ajo: 5 min, Varoma, giro a la izquierda, vel cuchara.",
+        "Añadir el chorizo, la panceta y los pimientos: 10 min, Varoma, giro a la izquierda, vel cuchara.",
+        "Reservar aparte todo esto menos el aceite, y añadir el pan migado y el pimentón: 10 min, Varoma, giro a la izquierda, vel 3.",
+        "Repetir: 8 min, Varoma, giro a la izquierda, vel 2. En este punto se puede añadir de nuevo el chorizo reservado."
+      ],
+      "custom": true
+    },
+    {
+      "id": "guiso_de_garbanzos",
+      "title": "Guiso de garbanzos (Thermomix)",
+      "category": "Cucharas",
+      "desc": "Guiso de garbanzos con chorizo, patata y zanahoria, hecho con Thermomix.",
+      "time": 45,
+      "difficulty": "Fácil",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "puerro (en rodajas)",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "zanahoria (en rodajas gruesas)",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "chorizo (en rodajas)",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "patata (en trozos pequeños)",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "aceite",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "caldo o agua con avecrem",
+          "amount": 750,
+          "unit": "g"
+        },
+        {
+          "name": "garbanzos cocidos (en conserva, lavados y escurridos)",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "laurel",
+          "amount": 1,
+          "unit": "hoja"
+        }
+      ],
+      "steps": [
+        "Poner en el vaso el puerro, la zanahoria y el aceite, y trocear 3 seg, vel 5.",
+        "Añadir el chorizo y sofreír 5 min, 120°, vel 1.",
+        "Añadir el caldo, la patata y el laurel: 22 min, 100°, giro a la izquierda, vel cuchara.",
+        "Añadir los garbanzos: 12 min, 100°, giro a la izquierda, vel cuchara."
+      ],
+      "custom": true
+    },
+    {
+      "id": "arroz_pollo_potas_alcachofas",
+      "title": "Arroz con pollo, potas y alcachofas",
+      "category": "Arroces",
+      "desc": "Arroz caldoso con muslo de pollo, potas, alcachofas y verduras, con un majado de ajo y azafrán.",
+      "time": 60,
+      "difficulty": "Media",
+      "baseServings": 4,
+      "ingredients": [
+        {
+          "name": "muslo de pollo deshuesado",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "cebolla",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "puerro",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "pimiento verde",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "pimiento rojo (un trozo)",
+          "amount": 0.5,
+          "unit": ""
+        },
+        {
+          "name": "tomates",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "alcachofas",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "potas pequeñas (o sepia)",
+          "amount": 4,
+          "unit": ""
+        },
+        {
+          "name": "laurel",
+          "amount": 1,
+          "unit": "hoja"
+        },
+        {
+          "name": "pimentón molido",
+          "amount": 1,
+          "unit": "cdta"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "azafrán",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "perejil fresco",
+          "amount": 1,
+          "unit": "puñado"
+        },
+        {
+          "name": "ajos",
+          "amount": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "vino blanco",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "colorante alimentario",
+          "amount": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "zanahorias",
+          "amount": 2,
+          "unit": ""
+        },
+        {
+          "name": "habichuelillas (judías verdes)",
+          "amount": 0.25,
+          "unit": "kg"
+        },
+        {
+          "name": "arroz",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 900,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Sofreír el pollo salpimentado junto con una hoja de laurel.",
+        "Hacer un sofrito de verduras: primero la cebolla y el puerro, después el pimiento verde y el rojo, luego el pimentón y rápidamente el tomate. Cuando el tomate lleve unos 5 minutos, añadir las alcachofas y dejar hasta que esté todo bien sofrito; añadir entonces las potas y tenerlo unos 7 minutos más.",
+        "Preparar un majado en el mortero con la sal, el azafrán, el perejil fresco, los ajos machacados y el vino (unos dos medios morteros), y echarlo en la sartén dejando que hierva 10 minutos.",
+        "Añadir un vaso de agua por persona y medio para todos, un poco de colorante, y dejar hervir 20 minutos.",
+        "Cocer las habichuelillas y la zanahoria aparte 10 minutos en olla exprés, y añadirlas al caldo a la vez que el arroz.",
+        "Añadir 2 puñados de arroz por persona y dejar hervir otros 10 minutos."
+      ],
+      "custom": true
+    },
+    {
       "id": "berenjenas_alinadas",
       "title": "Berenjenas aliñadas",
       "category": "Vegetariano",
@@ -3862,49 +3734,6 @@
         "Añadir el azúcar, la canela en rama, la piel de limón y una pizca de sal.",
         "Una vez cocido, retirar el limón y la canela.",
         "Echar en una fuente honda y espolvorear con un poco de canela."
-      ],
-      "custom": true
-    },
-    {
-      "id": "arroz_con_leche_2",
-      "title": "Arroz con leche (receta 2)",
-      "category": "Postres",
-      "desc": "Versión más rápida de arroz con leche, cociendo el arroz directamente en la leche con canela.",
-      "time": 40,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "leche",
-          "amount": 1,
-          "unit": "l"
-        },
-        {
-          "name": "piel de limón",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "canela en polvo",
-          "amount": 3,
-          "unit": "cda"
-        },
-        {
-          "name": "arroz",
-          "amount": 125,
-          "unit": "g"
-        },
-        {
-          "name": "azúcar",
-          "amount": 125,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Poner a hervir la leche con la piel de limón y la canela en polvo.",
-        "Añadir el arroz y cocer 10 minutos.",
-        "Añadir el azúcar y cocer otros 15 minutos removiendo.",
-        "Echar en una fuente y espolvorear con canela."
       ],
       "custom": true
     },
@@ -4178,82 +4007,6 @@
         "Cocer durante 30 minutos.",
         "Añadir un poco de azúcar y dejar 5 minutos más.",
         "Dejar reposar de un día para otro."
-      ],
-      "custom": true
-    },
-    {
-      "id": "truchas_escabechadas",
-      "title": "Truchas escabechadas",
-      "category": "Pescado",
-      "desc": "Truchas fritas y cubiertas con un escabeche reducido de vino, vinagre y hierbas.",
-      "time": 45,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "truchas",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "pimienta",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "harina (para rebozar)",
-          "amount": 3,
-          "unit": "cda"
-        },
-        {
-          "name": "ajos pelados y enteros",
-          "amount": 6,
-          "unit": ""
-        },
-        {
-          "name": "laurel",
-          "amount": 2,
-          "unit": "hojas"
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "tomillo",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "caldo de pescado",
-          "amount": 200,
-          "unit": "ml"
-        },
-        {
-          "name": "vino",
-          "amount": 1,
-          "unit": "vaso"
-        },
-        {
-          "name": "vinagre",
-          "amount": 1,
-          "unit": "vaso"
-        }
-      ],
-      "steps": [
-        "Limpiar las truchas y sazonarlas con sal y pimienta por dentro.",
-        "Rebozar con harina y freír.",
-        "En un poco de ese aceite, freír los ajos pelados y enteros.",
-        "Añadir el laurel, el perejil y el tomillo.",
-        "Añadir el caldo de pescado, el vino y el vinagre.",
-        "Dejar reducir a la mitad y echar sobre las truchas.",
-        "Dejar en la nevera 24 horas."
       ],
       "custom": true
     },
@@ -6759,61 +6512,6 @@
       "custom": true
     },
     {
-      "id": "sepia_rellena_encebollada",
-      "title": "Sepia rellena encebollada",
-      "category": "Pescado",
-      "desc": "Sepia a la plancha rellena de un pochado de cebolla y setas.",
-      "time": 15,
-      "difficulty": "Media",
-      "baseServings": 2,
-      "ingredients": [
-        {
-          "name": "sepia mediana",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "cebolla",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "setas",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "ajo",
-          "amount": 2,
-          "unit": "dientes"
-        },
-        {
-          "name": "aceite de oliva",
-          "amount": 2,
-          "unit": "cda"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        }
-      ],
-      "steps": [
-        "Cortar la cebolla y las setas en tiras. Picar el ajo y el perejil. Limpiar la sepia y separar sus patas del cuerpo.",
-        "Pochar a fuego suave, con 1 o 2 cucharadas de aceite, la cebolla en tiras; cuando adquiera un tono transparente, añadir las setas, el ajo y el perejil. Cuando esté todo pochado, retirar y reservar.",
-        "En la misma sartén, subir el fuego, añadir sal y hacer la sepia: se calentará unos 3 minutos por cada lado, encogiéndose un poco al darle la vuelta.",
-        "Colocar la sepia en el plato con su espacio hueco mirando hacia arriba.",
-        "Con ayuda de una cuchara, rellenarla con la cebolla y las setas pochadas.",
-        "Se puede terminar de decorar con una ramita de perejil espolvoreado."
-      ],
-      "custom": true
-    },
-    {
       "id": "pollo_a_la_cerveza",
       "title": "Pollo a la cerveza",
       "category": "Carne",
@@ -6858,1020 +6556,6 @@
         "Añadir la cabeza de ajos, la cerveza, el avecrem y los champiñones. Dejar cocer.",
         "Sacar la cabeza de ajos cuando esté tierna, machacarla en el mortero y volver a añadirla de nuevo.",
         "Si se queda seco, se puede añadir algo de agua."
-      ],
-      "custom": true
-    },
-    {
-      "id": "ensalada_gulas_langostinos",
-      "title": "Ensalada templada de gulas y langostinos",
-      "category": "Pescado",
-      "desc": "Ensalada templada con escarola, setas salteadas, langostinos y gulas.",
-      "time": 15,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "gulas",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "escarola",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "palitos de cangrejo",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "setas grandes",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "langostinos",
-          "amount": 5,
-          "unit": ""
-        },
-        {
-          "name": "aceite de oliva",
-          "amount": 2,
-          "unit": "cda"
-        },
-        {
-          "name": "ajo",
-          "amount": 3,
-          "unit": "dientes"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        }
-      ],
-      "steps": [
-        "Descongelar los palitos de cangrejo (surimi) y cortarlos en dados grandes.",
-        "Limpiar y refrescar la escarola.",
-        "Cortar en tiras las setas y picar un diente de ajo; reservar los otros dos dientes enteros.",
-        "Pelar los langostinos y cortarlos por la mitad.",
-        "En una sartén, poner una cucharada de aceite para saltear las setas con el ajo (tanto el picado como los dos dientes enteros).",
-        "Añadir los langostinos cortados a la sartén y saltear.",
-        "Cuando los langostinos estén rojos, añadir las gulas y el surimi en dados, mezclar y calentar un par de minutos a fuego medio-bajo."
-      ],
-      "custom": true
-    },
-    {
-      "id": "huevos_napoleon_calamares",
-      "title": "Huevos Napoleón con calamares",
-      "category": "Pescado",
-      "desc": "Cazuela de sofrito de calamares y verduras, gratinada con picatostes, queso y huevo al horno.",
-      "time": 35,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "pan (para picatostes)",
-          "amount": 2,
-          "unit": "rebanadas"
-        },
-        {
-          "name": "aceite",
-          "amount": 3,
-          "unit": "cda"
-        },
-        {
-          "name": "cebolla",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "pimiento",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "calamar",
-          "amount": 400,
-          "unit": "g"
-        },
-        {
-          "name": "tomate frito",
-          "amount": 150,
-          "unit": "g"
-        },
-        {
-          "name": "queso rallado",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "huevos",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "orégano",
-          "amount": 1,
-          "unit": "pizca"
-        }
-      ],
-      "steps": [
-        "Trocear el pan en cuadritos y sofreír en un poco de aceite hasta que se tuesten; apartar.",
-        "Picar la cebolla y el pimiento, y sofreír.",
-        "Trocear en cuadros grandes el calamar y sofreír con la verdura.",
-        "Añadir el tomate frito y dar una vuelta.",
-        "Poner en una cazuela todo el sofrito y, encima, los picatostes y queso rallado en abundancia.",
-        "Poner encima el huevo y el orégano.",
-        "Meter al horno a 180°C unos 10 minutos, hasta que se cuaje."
-      ],
-      "custom": true
-    },
-    {
-      "id": "bizcocho_zanahoria_boniato",
-      "title": "Bizcocho de zanahoria o boniato",
-      "category": "Postres",
-      "desc": "Bizcocho jugoso de zanahoria o boniato con trocitos de chocolate, cubierto de crema de cacao.",
-      "time": 50,
-      "difficulty": "Fácil",
-      "baseServings": 8,
-      "ingredients": [
-        {
-          "name": "yogur",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "miel",
-          "amount": 1,
-          "unit": "dedo de vaso"
-        },
-        {
-          "name": "huevos",
-          "amount": 3,
-          "unit": ""
-        },
-        {
-          "name": "aceite",
-          "amount": 1,
-          "unit": "dedo de vaso"
-        },
-        {
-          "name": "harina",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "levadura",
-          "amount": 1,
-          "unit": "sobre"
-        },
-        {
-          "name": "zanahoria (o boniato, rallado)",
-          "amount": 500,
-          "unit": "g"
-        },
-        {
-          "name": "trocitos de chocolate",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "crema de cacao (para cubrir)",
-          "amount": 1,
-          "unit": "puñado"
-        }
-      ],
-      "steps": [
-        "Mezclar el yogur, la miel, los huevos y el aceite.",
-        "Añadir la harina y la levadura.",
-        "Añadir la zanahoria (o boniato) rallada y los trocitos de chocolate.",
-        "Hornear a 180°C, con ventilador, calor arriba y abajo, 35 minutos.",
-        "Una vez frío el bizcocho, cubrir con crema de cacao."
-      ],
-      "custom": true
-    },
-    {
-      "id": "bolonesa_calamares",
-      "title": "Boloñesa de calamares",
-      "category": "Pescado",
-      "desc": "Boloñesa de calamares y verduras con un toque de zumo de naranja, para pasta o arroz.",
-      "time": 40,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "calamares",
-          "amount": 400,
-          "unit": "g"
-        },
-        {
-          "name": "beicon",
-          "amount": 100,
-          "unit": "g"
-        },
-        {
-          "name": "zanahoria",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "cebolla",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "apio",
-          "amount": 1,
-          "unit": "rama"
-        },
-        {
-          "name": "ajo",
-          "amount": 2,
-          "unit": "dientes"
-        },
-        {
-          "name": "tomate frito",
-          "amount": 0.5,
-          "unit": "vaso"
-        },
-        {
-          "name": "zumo de naranja",
-          "amount": 0.5,
-          "unit": "vaso"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "pimienta",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "arroz o pasta (cocido)",
-          "amount": 300,
-          "unit": "g"
-        },
-        {
-          "name": "zumo de medio limón",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "agua",
-          "amount": 100,
-          "unit": "ml"
-        }
-      ],
-      "steps": [
-        "Picar en cuadrados muy pequeños los calamares, el beicon, la zanahoria, la cebolla, el apio y el ajo, y sofreír.",
-        "Cuando esté muy bien frito, añadir el tomate frito (medio vaso), el zumo de naranja (medio vaso), sal y pimienta, y dar una vuelta.",
-        "Para añadir a la pasta o al arroz cocido: sofreír ajo y añadir el arroz, sofriendo también unos segundos.",
-        "Añadir agua y el zumo de medio limón, sal y pimienta, y dejar cocer 20 minutos."
-      ],
-      "custom": true
-    },
-    {
-      "id": "salmon_marinado",
-      "title": "Salmón marinado",
-      "category": "Pescado",
-      "desc": "Salmón curado en sal, azúcar, eneldo y ralladura de limón durante 48 horas.",
-      "time": 20,
-      "difficulty": "Fácil",
-      "baseServings": 6,
-      "ingredients": [
-        {
-          "name": "salmón",
-          "amount": 450,
-          "unit": "g"
-        },
-        {
-          "name": "eneldo",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "pimienta",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "ralladura de limón",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "sal gorda",
-          "amount": 225,
-          "unit": "g"
-        },
-        {
-          "name": "azúcar",
-          "amount": 225,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Mezclar la sal gorda, el azúcar, el eneldo, la pimienta y la ralladura de limón.",
-        "Tapar el salmón con la mezcla, tanto por debajo como por arriba.",
-        "Tapar con film y poner un peso encima (un brik de leche, un zumo...).",
-        "Dejar en el frigorífico 48 horas.",
-        "Pasado este tiempo, sacar y lavar bien.",
-        "Filetear muy finito y dejar en aceite. También se puede congelar."
-      ],
-      "custom": true
-    },
-    {
-      "id": "queso_cremoso_setas",
-      "title": "Queso cremoso con setas",
-      "category": "Vegetariano",
-      "desc": "Paté frío de queso de untar con cebolla y setas pochadas, cuajado con gelatina.",
-      "time": 30,
-      "difficulty": "Fácil",
-      "baseServings": 6,
-      "ingredients": [
-        {
-          "name": "hojas de gelatina",
-          "amount": 3,
-          "unit": ""
-        },
-        {
-          "name": "cebolla (muy picadita)",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "queso de untar",
-          "amount": 400,
-          "unit": "g"
-        },
-        {
-          "name": "setas o champiñón",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "aceite",
-          "amount": 200,
-          "unit": "ml"
-        },
-        {
-          "name": "pimienta negra",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        }
-      ],
-      "steps": [
-        "Meter las hojas de gelatina en agua.",
-        "En 2 cucharadas de aceite, sofreír la cebolla; picar muy bien las setas (como la cebolla) y sofreírlas también. Apartar.",
-        "Echar el aceite y el queso, y mezclar muy bien en la cacerola; calentar y añadir pimienta negra y sal.",
-        "Añadir las hojas de gelatina escurridas, las setas y la cebolla, y dejar 5 minutos para que todo se mezcle.",
-        "Echar en moldes y dejar que se enfríe; luego se toma como un paté."
-      ],
-      "custom": true
-    },
-    {
-      "id": "cazon_en_adobo",
-      "title": "Cazón en adobo",
-      "category": "Pescado",
-      "desc": "Cazón marinado en un adobo de ajo, vinagre, pimentón y orégano, después frito.",
-      "time": 20,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "cazón",
-          "amount": 600,
-          "unit": "g"
-        },
-        {
-          "name": "ajo",
-          "amount": 4,
-          "unit": "dientes"
-        },
-        {
-          "name": "vinagre",
-          "amount": 1,
-          "unit": "vaso"
-        },
-        {
-          "name": "pimentón",
-          "amount": 1,
-          "unit": "cda"
-        },
-        {
-          "name": "orégano",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "harina (para enharinar)",
-          "amount": 3,
-          "unit": "cda"
-        },
-        {
-          "name": "aceite (para freír)",
-          "amount": 1,
-          "unit": "vaso"
-        }
-      ],
-      "steps": [
-        "Machacar el ajo, el vinagre, el pimentón, el orégano y la sal.",
-        "Poner el pescado cubierto con el adobo unas 8 horas.",
-        "Dejar escurrir, enharinar y freír."
-      ],
-      "custom": true
-    },
-    {
-      "id": "salsa_verde_solomillo",
-      "title": "Salsa verde para el solomillo",
-      "category": "Carne",
-      "desc": "Salsa cremosa de cebolla, pimienta verde y brandy, para acompañar un solomillo a la plancha.",
-      "time": 20,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "cebolla",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "pimienta verde en grano",
-          "amount": 1,
-          "unit": "cda"
-        },
-        {
-          "name": "brandy",
-          "amount": 0.5,
-          "unit": "vaso"
-        },
-        {
-          "name": "nata líquida",
-          "amount": 1,
-          "unit": "vaso"
-        },
-        {
-          "name": "solomillo",
-          "amount": 1,
-          "unit": ""
-        }
-      ],
-      "steps": [
-        "Sofreír la cebolla con los granos de pimienta verde.",
-        "Añadir el brandy (medio vaso) y dejar cocer.",
-        "Después añadir la nata (un vaso) y dejar hervir.",
-        "Hacer el solomillo a la plancha, vuelta y vuelta, y servir con la salsa."
-      ],
-      "custom": true
-    },
-    {
-      "id": "roscos_pura",
-      "title": "Roscos Pura",
-      "category": "Postres",
-      "desc": "Roscos fritos de naranja y limón, con un toque de canela.",
-      "time": 45,
-      "difficulty": "Media",
-      "baseServings": 10,
-      "ingredients": [
-        {
-          "name": "huevos",
-          "amount": 3,
-          "unit": ""
-        },
-        {
-          "name": "aceite (deslaumado con cáscara de naranja)",
-          "amount": 7,
-          "unit": "cda"
-        },
-        {
-          "name": "leche",
-          "amount": 10,
-          "unit": "cda"
-        },
-        {
-          "name": "zumo de naranjas (2, sin colar)",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "levadura",
-          "amount": 1,
-          "unit": "sobre"
-        },
-        {
-          "name": "raspadura de limón",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "azúcar",
-          "amount": 7,
-          "unit": "cda"
-        },
-        {
-          "name": "canela",
-          "amount": 1,
-          "unit": "cdta"
-        },
-        {
-          "name": "harina",
-          "amount": 400,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Mezclar todos los ingredientes, añadiendo la harina al gusto hasta formar una masa manejable.",
-        "Tapar y dejar reposar.",
-        "Mojar las manos con aceite o harina y hacer los roscos con el dedo.",
-        "Freír en abundante aceite caliente."
-      ],
-      "custom": true
-    },
-    {
-      "id": "crema_champinon",
-      "title": "Crema de champiñón",
-      "category": "Cuchara",
-      "desc": "Crema suave de champiñones con un sofrito de cebolla y ajo, perfumada con tomillo.",
-      "time": 30,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "caldo de carne",
-          "amount": 1,
-          "unit": "l"
-        },
-        {
-          "name": "cebolla",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "ajo",
-          "amount": 2,
-          "unit": "dientes"
-        },
-        {
-          "name": "champiñones de lata",
-          "amount": 2,
-          "unit": "latas"
-        },
-        {
-          "name": "tomillo",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "guindilla (opcional)",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "tapioca o sémola de maíz (si se quiere más espeso)",
-          "amount": 1,
-          "unit": "cda"
-        }
-      ],
-      "steps": [
-        "Hacer un litro de caldo de carne.",
-        "Sofreír la cebolla y el ajo.",
-        "Añadir los champiñones de lata (2 latillas) junto con el tomillo y el ajo machacados.",
-        "Dejar cocer unos 15 minutos lentamente.",
-        "Triturar con la batidora y, si se quiere más espeso, añadir tapioca o sémola de maíz."
-      ],
-      "custom": true
-    },
-    {
-      "id": "tiramisu",
-      "title": "Tiramisú",
-      "category": "Postres",
-      "desc": "Tiramisú clásico de mascarpone, café y bizcochos de soletilla.",
-      "time": 40,
-      "difficulty": "Media",
-      "baseServings": 8,
-      "ingredients": [
-        {
-          "name": "queso mascarpone",
-          "amount": 1,
-          "unit": "tarrina"
-        },
-        {
-          "name": "nata para montar",
-          "amount": 300,
-          "unit": "ml"
-        },
-        {
-          "name": "huevos",
-          "amount": 3,
-          "unit": ""
-        },
-        {
-          "name": "azúcar",
-          "amount": 1,
-          "unit": "vaso"
-        },
-        {
-          "name": "café",
-          "amount": 2,
-          "unit": "tazas"
-        },
-        {
-          "name": "cacao en polvo (nesquik)",
-          "amount": 3,
-          "unit": "cda"
-        },
-        {
-          "name": "bizcochos de soletilla",
-          "amount": 1,
-          "unit": "paquete"
-        },
-        {
-          "name": "cacao en polvo (para espolvorear)",
-          "amount": 1,
-          "unit": "cda"
-        }
-      ],
-      "steps": [
-        "Preparar café con azúcar y las cucharadas de cacao. Dejar enfriar.",
-        "Mojar los bizcochos en el café y colocarlos en el molde como base.",
-        "Mezclar el queso mascarpone con las yemas de huevo.",
-        "Montar las claras y añadirlas al queso. Montar la nata con el azúcar y mezclar todo, removiendo bien.",
-        "Poner una capa de bizcochos y otra de crema. Acabar con una capa de crema y espolvorear cacao por encima.",
-        "Guardar en el frigorífico."
-      ],
-      "custom": true
-    },
-    {
-      "id": "pimientos_piquillo_bacalao",
-      "title": "Pimientos del piquillo rellenos de bacalao",
-      "category": "Pescado",
-      "desc": "Pimientos del piquillo rellenos de bacalao en una bechamel de queso curado, con gambas.",
-      "time": 45,
-      "difficulty": "Media",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "pimientos del piquillo",
-          "amount": 12,
-          "unit": ""
-        },
-        {
-          "name": "ajos",
-          "amount": 4,
-          "unit": "dientes"
-        },
-        {
-          "name": "bacalao (ligeramente cocido, limpio)",
-          "amount": 400,
-          "unit": "g"
-        },
-        {
-          "name": "aceite",
-          "amount": 3,
-          "unit": "cda"
-        },
-        {
-          "name": "harina",
-          "amount": 2,
-          "unit": "cda"
-        },
-        {
-          "name": "queso curado",
-          "amount": 80,
-          "unit": "g"
-        },
-        {
-          "name": "leche",
-          "amount": 100,
-          "unit": "ml"
-        },
-        {
-          "name": "guindilla",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "gambas peladas",
-          "amount": 150,
-          "unit": "g"
-        }
-      ],
-      "steps": [
-        "Picar abundantes ajos y sofreír.",
-        "Añadir el bacalao ligeramente cocido, limpio de piel y espinas, y trocearlo en el aceite para que fría lentamente.",
-        "Hacer una bechamel: calentar aceite, añadir un poco de harina y tostar; ir añadiendo aceite y mezclando; después añadir el queso curado y remover hasta que se funda.",
-        "Una vez frito el bacalao, añadir un chorrito de leche y la guindilla, triturar y dejar enfriar.",
-        "Rellenar los pimientos con el bacalao.",
-        "Saltear unas gambas peladas.",
-        "Poner la salsa sobre los pimientos y las gambas, y calentar en el microondas o en el horno."
-      ],
-      "custom": true
-    },
-    {
-      "id": "tarta_salada",
-      "title": "Tarta salada",
-      "category": "Entrantes",
-      "desc": "Capas de bizcocho con atún y tomate frito, cubierta de mahonesa y decorada con huevo y almendra.",
-      "time": 20,
-      "difficulty": "Muy fácil",
-      "baseServings": 6,
-      "ingredients": [
-        {
-          "name": "base de bizcocho (tipo Mercadona)",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "tomate frito",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "atún",
-          "amount": 3,
-          "unit": "latas"
-        },
-        {
-          "name": "mahonesa",
-          "amount": 1,
-          "unit": "tarrina"
-        },
-        {
-          "name": "huevo (para decorar)",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "almendras picadas (para decorar)",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "pimiento morrón (para decorar)",
-          "amount": 1,
-          "unit": ""
-        }
-      ],
-      "steps": [
-        "Mezclar el tomate frito con el atún y echarlo bien parejo por encima de una base de bizcocho; poner otra base encima y así sucesivamente.",
-        "Al final, sobre la última base, cubrir con mahonesa por todas partes.",
-        "Adornar con huevo cocido en rodajas, almendras picadas y pimiento morrón."
-      ],
-      "custom": true
-    },
-    {
-      "id": "tortitas_camarones_clasica",
-      "title": "Tortitas de camarones (receta clásica)",
-      "category": "Pescado",
-      "desc": "Tortitas finas y crujientes de camarones, cebolla y perejil, sin garbanzo.",
-      "time": 20,
-      "difficulty": "Fácil",
-      "baseServings": 4,
-      "ingredients": [
-        {
-          "name": "camarones",
-          "amount": 0.25,
-          "unit": "kg"
-        },
-        {
-          "name": "harina",
-          "amount": 450,
-          "unit": "g"
-        },
-        {
-          "name": "perejil",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "cebolla (picada fina)",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "azafrán",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "agua",
-          "amount": 500,
-          "unit": "ml"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pizca"
-        }
-      ],
-      "steps": [
-        "Mezclar todos los ingredientes hasta formar una pasta homogénea, ni líquida ni espesa.",
-        "Freír en aceite bien caliente, a cucharadas soperas que deben quedar aplastadas y con los bordes irregulares."
-      ],
-      "custom": true
-    },
-    {
-      "id": "bizcocho_yogur_chocolate_leche",
-      "title": "Bizcocho de yogur con chocolate con leche",
-      "category": "Postres",
-      "desc": "Bizcocho jugoso de yogur con trozos de chocolate con leche.",
-      "time": 50,
-      "difficulty": "Fácil",
-      "baseServings": 8,
-      "ingredients": [
-        {
-          "name": "harina",
-          "amount": 300,
-          "unit": "g"
-        },
-        {
-          "name": "chocolate con leche (en trozos)",
-          "amount": 120,
-          "unit": "g"
-        },
-        {
-          "name": "huevos",
-          "amount": 4,
-          "unit": ""
-        },
-        {
-          "name": "azúcar",
-          "amount": 240,
-          "unit": "g"
-        },
-        {
-          "name": "yogur natural o de limón",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "aceite de girasol",
-          "amount": 120,
-          "unit": "g"
-        },
-        {
-          "name": "levadura",
-          "amount": 1,
-          "unit": "sobre"
-        },
-        {
-          "name": "sal",
-          "amount": 1,
-          "unit": "pellizco"
-        }
-      ],
-      "steps": [
-        "Rallar el chocolate y reservar.",
-        "Batir los huevos con el azúcar.",
-        "Añadir el yogur y el aceite, y batir.",
-        "Añadir la harina, la levadura y la sal, y echar el chocolate, mezclando y batiendo todo.",
-        "Engrasar un molde y espolvorear con harina.",
-        "Verter la mezcla en el molde.",
-        "Hornear 35 minutos a 180°C."
-      ],
-      "custom": true
-    },
-    {
-      "id": "flan_galletas_maria",
-      "title": "Flan de galletas María",
-      "category": "Postres",
-      "desc": "Flan sencillo hecho con galletas trituradas, leche, huevo y un toque de canela.",
-      "time": 55,
-      "difficulty": "Fácil",
-      "baseServings": 6,
-      "ingredients": [
-        {
-          "name": "leche",
-          "amount": 2,
-          "unit": "vasos"
-        },
-        {
-          "name": "huevos",
-          "amount": 3,
-          "unit": ""
-        },
-        {
-          "name": "galletas María",
-          "amount": 14,
-          "unit": ""
-        },
-        {
-          "name": "caramelo líquido",
-          "amount": 1,
-          "unit": "puñado"
-        },
-        {
-          "name": "azúcar",
-          "amount": 2,
-          "unit": "cda"
-        },
-        {
-          "name": "canela",
-          "amount": 1,
-          "unit": "cdta"
-        }
-      ],
-      "steps": [
-        "Precalentar el horno a 180°C.",
-        "Machacar las galletas hasta hacerlas polvo.",
-        "Mezclar todos los ingredientes hasta que no queden grumos.",
-        "Echar la mezcla en las flaneras con caramelo líquido en la base.",
-        "Poner en el horno al baño María 40 minutos.",
-        "Al sacar, poner una galleta y caramelo sobre el flan."
-      ],
-      "custom": true
-    },
-    {
-      "id": "tarta_de_melocoton",
-      "title": "Tarta de melocotón",
-      "category": "Postres",
-      "desc": "Tarta fría en capas de hojaldre, nata con queso Philadelphia y melocotón salteado en zumo de naranja.",
-      "time": 60,
-      "difficulty": "Media",
-      "baseServings": 8,
-      "ingredients": [
-        {
-          "name": "masa de hojaldre (una base, partida por la mitad)",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "melocotones",
-          "amount": 6,
-          "unit": ""
-        },
-        {
-          "name": "aceite",
-          "amount": 1,
-          "unit": "chorrito"
-        },
-        {
-          "name": "azúcar (para sofreír los melocotones)",
-          "amount": 1,
-          "unit": "cda"
-        },
-        {
-          "name": "naranjas (exprimidas)",
-          "amount": 2,
-          "unit": ""
-        },
-        {
-          "name": "limón (exprimido)",
-          "amount": 1,
-          "unit": ""
-        },
-        {
-          "name": "nata para montar",
-          "amount": 600,
-          "unit": "ml"
-        },
-        {
-          "name": "queso Philadelphia",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "azúcar (para la nata)",
-          "amount": 0.5,
-          "unit": "vaso"
-        },
-        {
-          "name": "canela",
-          "amount": 1,
-          "unit": "pizca"
-        },
-        {
-          "name": "almendras picadas",
-          "amount": 1,
-          "unit": "puñado"
-        }
-      ],
-      "steps": [
-        "Hornear una base de masa de hojaldre a 200°C, bien pinchada con un tenedor.",
-        "Lavar bien 6 melocotones enteros, quitar el hueso y cortar en cuartos.",
-        "Con un chorrito de aceite, sofreír los melocotones en la sartén con una cucharada de azúcar.",
-        "Exprimir las naranjas y el limón, y añadir a la sartén; dejar unos 5 minutos tapado.",
-        "Batir la nata para montar con el queso Philadelphia y el azúcar, hasta que monte la nata.",
-        "Sobre media base de hojaldre, extender la nata batida como una crema.",
-        "Añadir melocotones picados.",
-        "Añadir el otro hojaldre y otra capa de nata, y otra capa de melocotón a cuartos.",
-        "Añadir una pizca de canela y almendra picada por encima.",
-        "Todo se monta en frío."
       ],
       "custom": true
     }
