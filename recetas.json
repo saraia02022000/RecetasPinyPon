@@ -2258,6 +2258,44 @@
         "Si se queda seco, se puede añadir algo de agua."
       ],
       "custom": true
+    },
+    {
+      "id": "pollo_al_limon",
+      "title": "Pollo al limón",
+      "category": "Carne",
+      "desc": "Pollo al limón",
+      "time": 30,
+      "difficulty": "Fácil",
+      "baseServings": 2,
+      "ingredients": [
+        {
+          "name": "Cuartos traseros de pollo",
+          "amount": 0,
+          "unit": ""
+        },
+        {
+          "name": "Limón ",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Sal y pimienta",
+          "amount": 0,
+          "unit": ""
+        },
+        {
+          "name": "Patata ",
+          "amount": 2,
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Limpiar el pollo de grasa y piel",
+        "Salpimentar el pollo",
+        "Marcarlo en la olla por los 2 lados",
+        "Añadir el limón partido en 2 y la patata partida en 4 y dejarlo en olla express 15-20 minutos"
+      ],
+      "custom": true
     }
   ],
   "overrides": {}
